@@ -1,0 +1,1027 @@
+Why we cant aggreegate all the knoleged we gain trought digitalization era, all lesson e hav learned from producing courses, platform, interview and so on and so on, into one, main unified platform, that support all student in the world from when they are child to finish they study journey in advancing technology. One legit platform, accepted world wide, and its founded by government, or other student who become professional, this cycle can continue for ever, and its so much cost effective, one caution it should not be applied to fields that are in active area of research.
+
+
+
+
+
+Here is nice pattern, many frameworks have similar command or anything, but they don follow any standard, so if user experience one framework can easly use any others, i mean we have sql, if you worked with any sql platform like my sql, then migration is easy, but we dont have this with python frameworks.
+
+# why we dont have a internatonla education system, that is more power than ggovernment decision, that can unite education system digitalized, automated , centerlaized and united all aorund the world, why banks has this powers, but eduction doesnt, and in reality education has more value, and indeed is the largest investment and individual do, and that has the largest impact only many one life. So in this analogy whay banks are so powerful and education arent? That’s it, we need an educational trade,... 
+
+
+
+
+# there is time frame, specially when topics are complex or jargon, in those situation student may miss part of the discussion dou to mind natrual ignorace,... so creating courses should also consider thise.
+
+
+i think many consumpotion of money can be reduced by planniing how to genereate and collect data at low leve, app level, databse lvl and so on, to remove the cost ...
+
+
+
+# os is the heart of any task, we are stacking task on traditional os, shouldnt know we start to reinvent it? we need an os which is diffrent from those we alrdy have, stacking should change, we can use all we learned from the past, and design versatile system, fro example, sql and databases can now be integrated within the system,, ??? also implementing containers, we now need unity, cross functional os ... we should remove barriers .... or intgertaing parrelalsim, so its always done ...
+
+
+
+# finally seems i know the path to take, first simplifiyng any thing if possible, removing redundancy , obsolates, unity, standrdazition, but also ...
+
+
+# the idea of tenent, as i think that we should stop thinking ownership of anything, we need like traditional system, when you give something , you get something and you pay only for the service exchange, i mean, we should find a way to remove the idea of ownership.. which is a part of capitalism idea, but when understood, can lad to a beeter ecosystem, reduce waste, increasy quality of service, and competition... 
+
+
+# important) i discovered stage , should be in range of 3, 4 , 5 like smart or pace, this make for indivuslal to easly remember the relation between stages, more than that, can be simply automated into program or application or enviroment, if its a key principle it should not have more tha n3 , 4 , 5 stage, 3 is idea and 4 is also great, but 5 should be last resort...
+
+
+# (actually i dont want to prove people are wrong, but i allways thnk there should be easier way to)maybe th reason i am allways disacgree with others, is, i am constantly build new data based on the given data, im not sure everyone else do it or know, but i am seeing anomaliy so fast, and thats make me i dont feel anything new or trend, they become old as soon as they rich 
+
+
+me, until there is a cap, if something become  then i claim thats is tru ...
+
+
+# maybe i use this qutor for the book : openrelationship and data
+
+
+# maybe people got collabroation in a wrong way, or my success means i had more commitement, anyway, the things in my journey is dominanat, i wasnt talking, i was doing all the time, i was learning while doing, and i was cordintating while doing, i was in a fluid path, not static, which i think its the most problem we suffer today, and that should be addressed,.. or maybe lotsof meeting, ticketing and soforce with stakholders, there are a burden system , that need to be fixed...anyway..
+
+
+okay one more thing about privacy, when any thing that can be shared is no logner means private, or privacy applied, then its only a range of who access them and nothing more... and privacy should be seprated, there are personal information realted to mental, health, relationship, etc that are usually only shared in a domain, these are private data and should not be mistaken with data that are sahred across the glob ...
+
+
+# one of the interesting things abou data and data professional is, they use visualizzation, context, and document and story telling to tackle a problem for 
+a sttake holder, and this usually happend when they are present and explain it to them, and they claim visualization specially using charts is the best way of doing this, but, if an analysis is really good enough, do we need some other one to explain it to us????, if i say do you like icecream? did you need me to explain what iceacream is??,,
+
+
+# wo things that really impact my mental health, and i discovered are : first the enviroment and natural flow, maybe tools are good, but enviroment is the key to success, i dont say if you dont have right enviroment you wont success, but there are eas-in and out way of success, and about natural flow, this is maybe the only good thig about the name water wafall, but not the approach itself, waterfall if we look at it, its a natrual flow of water, and means there will be less effort ot achieve a goal, how ever ... maybe if i had the right enviroment and i knew the natral flow, i had even alot more faster speed riching my goal, but what i did infact is something only a few people can do anyway ...
+
+
+
+# another concern i have, is abouy privacy and pii security and privacy, similar to agile, this need to be overwritten, its like who knows , what , to compare with many other people i have alotmore computer activity with some leggal and illegall actions, and some private or public, but for this long years, i never had a privacy concer, why? this is how you train your self, how you identify concepts and what you know, it should be a personal skill rather than being invested that much with business and governance, okay i will eplain it more  and bette rlater ...
+maybe one sulution is we remove personal data , we replace it with a cryptography, so noone then rather than machines know who is who, ... but what about images and videos???
+i mean, there are lotosf things should not be consider privacy anymre, with the idea of open relationship, which is based on the natural social way of living, if many traditional concern will removed, then we have less data to secure, and actually world becomes safer, not like some people think if a pricvacy compromized world be less safe, maybe its true with the precedures now rule, but like many other thngs its also subject to change in the future, when there are enough people to understand the concept...
+and like grandmother of wednesady said: secrets ae like zombies, they never truly dies ... but we can kill secretes by not assuming them as a secret ..
+
+
+
+#(people are more talking than doing, hats true both with students, instructors, even emplyees and more than tha desion makers,, are the worst, they think they have right, but i will provev most of them doesnt have rights for the title...) one of my discovery is , people seems enjoy more talking than offeering excevutive sulution and tld version of any thing, this is true with many courses i have been doing, what the purpose of data is?, maybe atomicity,but what this means, the idea of putting a see into a glass of waer, is what we should look for, and infact this is possible with data...
+
+
+maybe duo to my natural mind, i avoid using mobiless, it makes me sick, but i also found it useless, and after gaining vast amount of knoledege in diffrent area, i know see a mistak i need to fix, i am used to be on laptop every day, specially in deadlty deadline time i was doing all thiese courses, i noticed, i wat to even leave laptop to, yesm we want technology to help us spend more time on our ntural living, not spending our all time on technology because they seems attracting, and maybe thats a world disaster ...
+
+
+
+one of the another reason for elimating terms is, when two people are speaking about a subject they both are awar, they implictly talk, but we have many explict term, for exampl digram in form of data modling iwth relational database means erd, but do we need to calssify? or instead we should to practice to remove redundant and explictly and atomicity of term, so its easier to manage to teach and to transfer ,,,,
+
+
+
+
+
+
+# instead of divinding courser by job roles, we can first teach student the core and basics, they have alotof time to get specciallized in theiyr jobs time, i mean. there are many many topic share for example in data analytics, data engineering and data scientis, and there are asome core principle tht all student should know, and also for themself to be able to switch whenever they want to..
+
+
+# from phisysc we know when we try to observe a smal piece of atom?? they start to change their behavior , we called self sensoring?? ,so its also true with people??, should we start inding diffrent way rather than surveying and observing like we do know?? , because the question can change the answwer ???
+
+# i think any tihng that can be stuctured  , so that can be automated too and should.
+
+
+# almost every tools are come with limit or ofr specefic case, without being genreal used in mind, and be capable for infinity like spoon, ???
+
+
+# one of the things should be noted here is , alotof term in software engineering which is supposed to be science not business, but use for business, so there are many many many business name and redundancy, because hey are mixed with business domains, so this is not raeally benefitioal, but maybe for the moment to keep stake holders happy, or attracting peple this names wehre produced or for persuading sponsers or accuaring attention for investors this are usually words like velocity, veracity, high perfomance , etc .., but need to be elmitanaed and this is another major reason. and also many of this terms are a proxy name for their mathmathical action,maybe becasue be easier to understand, but this need to be reconsidered ..
+
+
+
+# i think its should become for me a rule of thumb, if a subject
+
+
+ cant be exlained without example, then its a poor explaination, we have to rewrite it, or rewsie it ... i dont mean exmaples are bad, but must be avoided in manycases ..
+
+# traditionally every graduted student have to create an article and defence it, its lead to many many many same approach for one particular data, and that also lead to many many same strategy, explained diffenrtly, this must be eliminated, and tradiotnal must be replaced ...
+
+# an advise i saw in a movie , was about a problem, thaty they wanted to solve, and mother which was a scientist asked her duaghter to help, but she was making int more complex, then mother told her: you are not helping, you are just defining more problem, what i need is answer to this problem, not more problem ,,.. or so  (i need exact word from movie anyway)
+
+# one of the things i like about footbal, you cant simpley learn and enjoy it, and even mastering it takes so much time, but you enjoy since the begining, and also everyone else can enjoy but watching you, or looking at you, does we have this in software engineering???
+
+
+# visual programming like what offerd in unreal engine, should be considred with event ecosystem..
+
+# why they are introducing so many tools with data science? but the fact is there are many tools or service for any thing, but finally, you wont pick more than 3-4 tools at all, and in your creer, you might change tools , but still you have those 3-4 tools you will work with fnally, and thats the reason why integration and unity is become again more important, if you are going to 3 or 4 tools, ti should integrate many many many other tools into one eco system, or envrioment is better word and should replace eco system, ...
+
+# an idea: what do you thin about hypothosis, when we have a hypothoses and we start to gathering fact, when we have smale fact that can support our hypothosis we stop. thats what we wanted since beginig. and ofcurse we say ethih , be not bias, but if we have hypothosis we are biased about it, but what if we have hypothosis to prove something isnt truth, then we need to collect not 1 fact but as many fact we need to prove it, because many are not agree ... ,
+from last sentence mybe is hard to understand me, but i mean we dont have to store all data, traditionally we stacked, we stacked everything on top of other things, maybe history tellers do it all the time, but is that what we want? can we build a modern apartment on top of an old building?, the truth is , itsnot our purpose to produced data, but to elemitane as much as unneccsasry or unrelevent data we have, stack is unavidable, but at a time we shoud elemitae ad stack by new things, we wont need to old data anymroe ... its still need more explaination thisi is one of thos topic wichi is the opposite of most human thinking...
+from last sentences : it seems if we think of source of truth like nodes, there are many node that been replaced by the time, but there is still an orging that should be kept, and thats how origin and history with data created, a clean version that onlt support what is not obsolated, and lead to now..
+
+# iam thinking ,why learning sql is easier than almost every other programming approaches? i think it support my earlier discussion , the reason is becausee of unity, standardzied, and more .. however there is still some problem with it, even the language is united, but tools and enviroment support it aren't, and thats the only challenging part of sql , not the language itself...
+
+
+# there will be another outcome from this source rather than event, automata, a blue book that is written from methadology , and phoiosophies and practices in this book, to help any other student that is not a software engineer, as a tresurey book ...
+
+
+
+Events is not just a teaching platfrom, it is also an SDLC envirometn since beginning for student, and security and methadology ...
+
+
+# after internet evovled, nobody actually shipped new way of learning into this new era, what we do is doing same traditional learning system in a digital envrioment, which is not just only wrong, but not ethic too, so its time to develop an standard way, 
+
+
+that can be a proxy for the world of students, the unversity era has beend changed, but they odnt adopted, .. they just mimiced ..
+
+
+# when i was doing like 150 coruse at the same time, the biggest problem was organization, and tracking, even i could plan them, but it wasnt even effiecent to do so, ut was very unstuctured, and alos my domain knloedge was a concern, this is where it was nessesray for the platform to had some autmoted process to do all these for me and for everyone else doing the same, and this wont be aproblem with event..
+
+# one of the ideas with even is acceibility, we hope we can do it like Unreal engine, we let student choose if are able to pay or they can use aid, and hopefully they will comeback when they were cappable to help this community grows and let other student like them make a benefit, and it should be learned in soul of the whole porgram, we want love, we want care, for all children of the eath ..
+
+
+# in coursera theiere is no explict rule how to get your certificate, you can do it by completing assignment only, but with even thigns are a bit diffrent, we use ai, to determine each student, strenght and weaknessess
+
+# there are materials in earth they lead to almost every thing we do, we dont have to worry if its gold or other metal, we only need to know how to use it, this is true with computers, and some thing are and should become our material, so we can focus on other things, for example , we dont need tuosand data base out there, we need just 2, one which is standard, 1 which is developmet, like what we do in agile ci/cd pipeline ... so this is the idea of unite, microsoft , amazon, they doent make money from their specefic databse, but from their business, so what if, all of these can be combined, its better for they margin, student, community , and the whole world, it is faster to find mistake, bug and improvement  too.. and maye shared responsibility is a drawback, but its incomparable with its beefits. and this the job of sicence, it doesnt have to deal with businees, ..
+
+
+# im there are six basic among some others topic that university , should include for any student (some of them maybe replaced, or ignored by student type: like our ansisters, (food, health, art, music, social communication, software engineering, entertainment, english) ..
+
+
+
+# it seems the main or relational acition we doing using programming, down to a few. they are basics, and every thing is built o this basic, ... for example, sort, map, etc.. .
+
+# idea - in form of abstraction, if we know stuture of the app, so we hould be hapy doing it, domain knoledge is usually the problem working with abstraction, and it can maybe solve by doing simple stucture, like all we do in decomposition, yes seems decompositio is key to many things, anyway, this is a technich, to stucture first, then add functionallity , it works with sql
+it should work with others too, i am not testing it yet ..
+
+# one of the major problem is alwas i see, is unnecceray content in courser, ut not just there almost anywehere, sometime the reason is they got paid for the length of the content, some time maybe the want to mmic they have rich content, and thats wrong, we want content be short as possible,  ... extra, bonus, unrelated stuf, these not encorueges, they just waste student time, student need to be actionable, so they cant do, measure , learn from it, and expand expreience, and do it again and again ...
+
+# i found it intresting coding a simple web browser / web server / and web clint in python help to remove lotsof barries in thise, area, yeas maybe not pointing how telephone works to damenstrate it, but integrate the example with code ... but anyway both ways seems good to me .. the idea is to understand what happend behind the scene, but not to explaining but by doing ..
+
+
+/3 important note, many ideas discussed are based on my hypothosis, and maybe obsolated with another on in this reading when i had better understanding of the subject ..
+
+# an idea: event home page can have a dynamic aestathis visualization, that shows how she helped students around the world, rather than traditional, qutoes ..
+
+# if you remember my simple game , that shows term and seperation, it is good idea to bundle or itnegrated it with dynamic presentation, thats a true story telling, like a tv shows.. (it means we dont seprate pages, we let visualazion lead, and emphasis the object,  ...by a continue presentaion, thats what we need right? ci/cd?
+
+
+# one of my concenr wit hagile is , okay let me first say the concept or idea behind computer scinece, abstraction it is. but with agile we actually trying to remove barries and abstraction (it tries to proxy it in team level, which is a single point of failure), instead of finding a method to embrace it, with waterfall ofcurse there is no abstraction at all, we cant continue with out all knoledged from the last phase ...
+
+
+# (ofcusre many of my ideas are drived from my learning from these folks or other, or i have updated them inot a another approach, or some are also original, because i never write who sad what
+
+
+ and how exact they said that, i cant say which idea is original to me, ofcurse all of them are, but i mean drived from another perspective of difrent person.)one of my expreience with so many course, showed me many professor each have one of my concerns, actuaally i even saw a professor used a word " learning curve, which i used before and i was thinking if its my idea, but turn out other person have some common with me, but the fact is none of these professor have all of these concerns in one place, and thats how software engineering isnt the thing i want ..
+
+
+# a simple game , i tell you 7 word then i ask you to repeat them, then i give you same 7 word in sentence then i aske you to repeat them, maybe this game that i didnt try yet, help us understand the imprtance of removing title , abrviation and so on, not all of the,, some are actualy easy and well defind to help us remember, but most are irelevent ...
+
+# because data grows, someone think its the optimal goal, but infact data need to be shirink, we dont care what people does, ofcurse if we relaibly teach student this concept they understand, purpose of data is drive value , and value is 1 thing, not bigger not smaller, so then we stack 1 1 1 1, and then we combine to 1, its the inifte goal of shirniking data, we have to have this mindset,  ...
+
+
+# our ansister wasnt any thig but adventurers, i see mny concern about every thing is going to be replace by ai, and infact should, its time again for another iteration, we should start our adventur now.
+
+# some of the topics discussed here, might be alrdy is find thier ways into world, and some are in practicion, and some actually becomes the standard, but there are alot more to cover...
+
+
+# one of drawback i learning for cloud computing is that student havnt chance to practice them before, they are learning somethiing unfamilier , but maybe a local platfrom solve this ..
+
+my jurney to strategic learnig was like a sessin in sex educatio
+
+n move when she (name) learned how to جق زدن, then she coudnt stop doing it for a long time, when i learned the art of learning, i coudnt stop it ..
+then i started to think why we dont integrate that art in teaching instead of learning?  student learn step by step, but teachers are who shape them, and teachera are more responsible  ...
+
+# what is data? what is data type? and data structure and how computer reperesnt them as vector such a string s or pixel is some of relevent historcal data that every software engineer need to know..
+
+
+
+# why i loved word_of_warcraft_tbc : was because, the oputiniut was equal and endless, it was depends on how hard you try. and the harder you try to better your result. eventho there was a bothering things,
+you coudnt achieve something belonged to very old player, because they wasnt exist anymore , there is alot to discuss my expreience there, but the whole idea is, the joy of having equal oportunity, even you fail, you should have time to fix it by trying much much harder, when you noticed, this is not happeing in our world, but its my dream.
+
+# i allways heared of inclusive design, equity design, this becomes trends and comes and go, but what actually i never saw was applying those terms. so that was i started to look for events, and i call it stress-full design, i want everyone in the world have same oportunity, then its to them to take it or not. the opposite of the circumustance than i am i it, the envrioment is deifned us at this moment i write this, ...
+
+????? s# there is finding, a function that behave diffrent by the diffrent input, so we dont have to name alotf name for same behaviros with a little diffrences, for exampl left(), right() and mid() , concat(), trim(), extend() with strings , can be abbrivated in one function ... or name it internationally so they can be used every where, for example trim is a trend between programmer and architecture software or 3d modelere ??s
+
+
+
+# the starting point approaches:
+  it might seems good we start by collecting every single term about software engineering also including (trend busines name and tools, 
+  then we start cleaning, removing dublicates, removing information that point to same refrence
+  removing histor that is not relevent anoy more
+  and so on .. untill we have a minimum amount of important data, that can help us shape the feature of the way we teach and learn software engineering ...
+  all of these appli into event platform, a unifed , and open platform, which is centeralized, and true source for learning software engineerng, by replacing traditonal, university and companies approach, or site like coursera and the less traditional hyper skill
+  direction is the key ...
+
+
+# the library problem:
+traditionally , booking was the soulution for collecting, organizing and distrubtuing data, and still is somehow, but it should be elminated:
+first its static, second by the large amount of data and growing sicence, its a duabt of obsolation before it realese, it used traditional method for creating and publishing book
+and much much more, ...
+
+
+# data cleaning can be partaily automated if not can be fully ..
+
+
+# creating a movie thetor expreience for user when creating courses that require video , seems to be good option. it let themo focus on the video ,,, if we compare a coursera webpage with htis idea every thign should be clear..
+
+# the most intresting part about sql and no sql is the data stucture, but amost all operation are the same, however coz some of data manipulatio isnt availalbe with all type, we could have 1 database, that could automatically detect and filter those command or report that some command arent avaialbe, this means, we didnt have to choose based on data
+the data based choosed how and where and why, we had only to focus on our sql commands, we could automate the techinichal part..
+
+
+# blind analysys, what is blind analysys? ts still an idea, its based on theory that how we can predict based on  ...
+
+# many time we ask a question, then we answer it after when we teaching, its not good, nobody like to feel they dont know answer , even they know it, they dont want be reminder, so like this one at ideation level we ask as many question we need, then we create story based on the naswer, story is ...
+
+# one method to ask unbiased qustion is to change question, or ask it in opposite direction, or change point of view , ... purfiyning can be also a good strategy, how ever even we think of random sampple, it is still lead to bias question, random it self is a problem with measuring data, so we need to think of a proper solution .. so part of the answer is first to ask right question, and the other part of the asnwer is we need to rgith amount of sample aswell, rather than any other trial is biased and unrealistic, so we need to ask the right question, and have the right number of variable to asnwer the question, like a pure function, thats all and will remain like that. an ever if we havent enough data or time and we had to use a random algorthim, first we need to pick a good algorthim, then we have a variance of the asnwer to enforce certinity, for example we 70% sure ..
+the problem with sample size, is we stick on an biased wrong idea, data is flowing, and data is really complex, we are trying to predict, which still base on the bias thaat we can actually predict if we have enough data, but what is enough data? does we consider enviroment in our sample size?
+is math mathical help us overcome this issue? , maybe people love icecream first time, but htey lose their intrest second time?, it lead us to the idea of repating process, may help us with more accruate data. but its not the fact, because we cant also infinitely reapte the data. not really. so what we need to do? , 
+a pratial solution might be , to ...??? its a vision, its help leverage decision, there is no real sulution at this time. yes , we have statistics , but how many product, are failing today? , they are even failing more than before. because they are growed in number. i think decomposition andd parrelizing can help, let say we want to give ice cream, so we conduct two search, first one that we want measure a icecream people actually like, and the second we produce a test based on icecream that we want to make sure poeple doesnt like, so it left us with a range. that then we can start by reducing range over time. but the thing most anayltics are doing is, a range from 0, to infinity, and thats a mistake .. it might not be the real solutio, but coz we never taste it before, we should test it first... so still there is no solution for the problem we talked about.
+another soulution might be to ask true question, for example. if i say, (this example will change later), but if i ask if color green is yellow? you have a certain answer, no . so when asking question, it should lead to 1 boolean answer, is it ture or false, simple. but if we dont ask the right question, we might found us in a for loop or while loop condition ..
+
+root cause, problem domain , ... and much mre refers to same thing
+
+# the problem with losof terms in sw is at a poin of time , a companie engineers had to use all knoledge they had to explain things and create sulutions, but they woudnt remember all of those methadology they learnde when were students, so same methadology with diffrent name borned.
+# the instructor seems are more intrested in teaching their strategy and methadologies when it comes to data, rathen than what data acually is and what we hope to get out of it and how we can actualyl do it ..
+
+# math mathical thinking another word for decomposition.
+
+# it seems we also drive all our mistake with ai too, tldr is something should dominant ai from us, how ever it doesnt at the moment.
+
+some of word that are still refrence one well methadology , for example, structural thinking its still decomposition, and like this are tousands out there,, that should be eliminated ..
+
+at a day i read a joke oin linkedin : every thing sun touches is our problem, when you employed on company they says ... but uts true ...
+
+# we want to bring every ones on the table , from student range 13 and above , why 13? well its just an starting point, not because i born on 13 novamber or because 13 is bad number in many cultures...
+
+
+eventes written by this idea:
+Events
+"The future demands simplicity, especially when you have to learn and unlearn in minutes if not seconds."
+
+"program is just a simple instructions, and it is every wheer from python, to software like rhino or autocad, maya also has it, many others has it, so why not student must be familier in they learning jurney with not just basic programming, but with programming? ,, its almost inavoidable for all students to work with some kind of prgramming in their life cycle ..."
+
+"if we invest in student arly and let them to understand data and management in early of their jurney, we dont have to spend a lotof them later to spend them in the job to teach them effectivness... "
+
+fish catching strategy, is also able to explain all ideas and concepts behind data analytis too .. its reallly seems to be broad stratgey with a few constraints. ..
+ for xample data-driven methadology is also supperted ..
+
+# the nessessay for every student in any field to understand data analyitc, to drive better desioson on their ife cycle ...
+
+# the nessessay to remove stacking knoledeges, at some point, many knoledge can be grouped together if not eliminated, and from that point, we need to start over we dont need all histories ....
+
+
+# this is just and explaintion of problems, and should be then translate into instructions, that can move from methadology , to a something human readable and easy to capture ...
+
+# thats important almost every thing that deals with data, can be explained using crud oeraton or it subsets ... so maybe a simpliefed version query can be used almost for every things .. 
+it also help us to remove a terabytes if not zetabytes of unnessary documentaitons...
+
+
+
+# the idea is a business shouldnt create the software engineer, the software engineer should do that, and it mean they dont have to learn oboslated topics because a business need it, the businees simply neet to trust the software engineer to update their sulutions.. thats what we are a software engineer ... 
+
+# if a problem, manage to become final touch, it should be added to standard, for example in our spoon example, spoons become an standard. so some standard, that is declared as constant should be produced, so remove the ambguity with many tools and software once and for all. for example, rm command becomes an standard, so nobody think it other wise... its good for consistency, and easy to learn approach ... but for example with database, there is no currently standard, its still a ever-evolving sulution, untill we have more information about it and maybe in the future it might not be a problem at all.
+
+# like any naural langue, that evoveld in the era, and becomed more simplifed, this how ever didnt happen wih softwre engineering.
+
+# open source , is a very good thing, but the draw back with it is there are many choices that are alrdy obsolated, so its also nessessary with evet to offer a method for standardizing industry of software engineering,  ... so it also need a large amount of contrbutaion, so it wil be also open source..
+
+# the nesssay of a term standardization , for example instead of having alotof defrent name like kubproxy, its important to have meaningfull name, that should explain an specefic action and used with every application, such as worker, job , etc. ...
+
+
+# like serverless this is important to seprate softare eingeenring in two category and one core, core is intended for every student, but one category is at code level for applicatino level, and the other is anything need to run that application, so student can choose their interest, front-end and backe-nd or full-stack are really traditional ... and the reson is in this new convention, there are actually independent, but in old method they are not .. the core must include data, and code and math ..
+
+
+# event project should be a centeralized project, so every thing does within the platform, like a serverless, then studet can focus on lreanig and prolem solving instead ..
+
+# project to add to product backlog: event, after introducing even, a software engineer should not be a problem anymore, we can have a fleet of them ...
+
+# serverless remind me an idea, to be an artist you need the paper, but you dont need to go manufacture and build a paper yourself, so all the time you hve confidence, and no concernt but your art, even serveless has some cons, but if we work on its architecture further, there is some thing like this, a whole server as a os, and software engineer is the user, like when we work with figma for example. that should be idel if we ever achieve it.. but ..
+
+
+# trying and catching no fish, can be very frastrating. and thats also work with learing journey, if you try hard, to learn something, but reviewing multiple times, in a row, doesnt help you, try diffrent zone, (diffrent point of view), or comeback tomorrow,maybe there are fish to catch (because your mine had to refresh its strategy , and mistakes).
+how ever the catch and fish problem, might not be the case with this course, becasue we alrdy integrated in the course, so you cn allways catch a fish, yep we cheated ..
+-  always use catching fish methadology in my learning experience, i dont expect to learn at the first time, i let my mind learn from observation first ..
+
+# maybe i call the book name as events, so it can not be only a main source for modern software engineers, but for anyone who want understand the new world ..
+
+# centeralization is allways a human concern, they want to have full control over every thing in one place, how ever decentralization becoes popular , and its allways a fight between the two concept, and usually we rool back in centralization for a time and then for a while we decentralized it.
+
+# there are more methadology in software engineering than every thing else, many of them have lotsof similarity and many of them can be very simplifed into a better understanding way ..
+
+
+# we lack an os for cloud native, so the os can have every thing we need, in top f the server ... ?? and it then will replace all other diffrent tools for same action, it means we now standardized it ... but it might be challenging duo each app serve a diffrent purpose, we need multi sulution .. that can solve many mistakes from the past.
+
+# security is methadology, and itis always overlooked, .. they can
+
+#idempotent is important
+
+# learn as you go procesesse, instead of diffrentaining some learning area lixe linux command, we can intergrate them in the learning pipeline ...
+
+# this question lead to an story, but at the story level, dominant phrases like high quality, better life, must be eliminated, and only if ...
+
+
+# how much data is used for data security , credential and similar methods, how we can shift our approach in favor of the less air pulution do to lotosf less data creation, better time managment but less time taking crating or invoking credentials, and safer mental health to our society??
+
+
+
+# the funny things about softare engineering is , their went long way from moolothic architecture to microservicess with cloud, and its era of the second iteration, we actually backed to where we started, decomposition and purity ..
+
+
+# if a term can not be phiscally exist or measured should be normalized, or should be eliminated, thats true software engineering, lotsof terms taht actually mean the same thing, its just another layer for complexity ...
+
+# to be a sucessful software engineer you ned a deep understaindg of data, what is out, how it created , ...
+
+# with the evolve of cloud and ai, most software engineering approaches need to shift in those area, but math and algorthim and data stay as a crusiol learning for any software engineer..
+
+# reduinsg terminoly also favor to consumer, customers, and any other stake olders, so more people have common understanding, and also help administrators, and learning cost for software engineering aswell, for example , bare metal is just a fancy or business name for physical mashine, and cloud provider are also a fancy name for renting a mashine which is physical or virtual.and
+also alotof term with cloud or methadologies like agile or devops, for example high quality product that make them more omplex is just for create attention, but ...
+
+# why i choose software engieering so late? , I think as my nature as a girl, but living as a nonbinary, had to do with this, i always was afraid, until i decided to face it...
+
+
+# why often aestachis ignored? i can see it in all major cloud providers, they not only lacks aesthhisc, but also simplicty, str
+
+
+# there are alotof engineer to solve problem using old methods, there is no need to for new engineer to waste on the alrdy absoulated mechanism, it make buliding future much faster... 
+
+aight forward, and easy to learn ... , they think its okay to fix this issue with lotsof documnetation, but we still stick with the spoon example ...
+
+
+# technology is evolving too fast, its make no sense, that we stick with older mthods, and its ofcurse part of being agile, responding to changes, but sometimes it can be really costly,,, so what is sulution, serverless, stateless, osless and much more lesses ... ??
+#we are lacking an agile architecture , we had the idea, we have the structure,, but not a great architecture ...
+
+# the need of seprating architecture or methadology or mindset or pholosohpy in software engineering, thats a part thats is usually combined ,,,,
+
+# there are lotsof practices that make you agile without even requirment to learn it, and thats should be teach in the sould of software engineering courses, so we have student that becomes agile in their nature, just a huge diffrences it can make ..
+
+
+# i see alotof people talking about agil, and almost all of them had beard it in mind that agiel is quicker, and faster feedback, maybe a few metion to the quality, but, what about aestahics? maybe its because we still have problem, defining problem of customers ..? or maybe we are looking for tempraory sulution? how we can actually think when we are working in smal batchs, but considering the overal value the big picture?? maybe here we say okay we have product backlog.. but ..
+
+# actually i think if we are able to teach software engineering a diffrent way, we dont even need to teach agile, it comes naturaly with students.
+
+# when we are hungery, we simply say we are hungry, a singla is very well understand but ayone, but what if we say, i need nuterient with blabla cabron bluprint because my stomac blabla ..
+
+# another problem is we want to just pick a software engiineer and teach them agile, and we do some restructure in our company cultre, we mimic agile ,it seems we are doing it, and we hope every tihng is working,
+but why the number of bad products is increased dramatically? and many startup just start as agile, and those are the most with bad application?
+
+# the most problem with agile and any other sulution seems to be
+
+# why the idea of family is close to agile? / its common practice in many family that one of parrent is supportive, they remove barries and help family members grow, which is the scrum master, and the other parrent is executive, they say what to do what not, this is similar to product owner,
+so what is imprtant to take a look at is the relationship between the scrum amster and productowner, this is very important always ignored, and the other thing is that productowner is executive, but they have a good understaning with other partner, before they make a judge ... its how we usually raise our babies..
+
+# there is another concept , you can explain anything yo know, so we can simply use this concept to eliminat lotosf methadology , and so force... the important part is to focus if you really learn it. then you may even be creatie or innovative about it..
+
+ abstraction, and abstraction not be caused by lack of domain knoledge, like with spoons, but as i see, domain knoledge is allways the cause of abstraction in software engineering, 
+most of them can be fixed by doing, you may not understand by hearing, but when you do, your mind start to think, then you change from learning, to problem soliving envrioment. thats very important.
+
+# there are foundamental term with software engineering and those and only those need to be explained, and need to be eplained before diving into the anything else, like pixels, and or how to explain every thing as math..
+
+
+# when cleaning this course, is good idea, to keep, ideas or hypothosis i was thinking and wasnt right, and how i responded to my mistakes...
+
+
+# product design or software design, is an art, but an art done with multiple artist. thats the idea. and thats the reason there are lotsof diffrent method and terms, but they are all doing simple steps even they don't know it
+
+# spotify team think agie is more importnant than scrum. [but even if nobody is agile, the enviroment is more important, the inviroment is waht shape us, even in natural enviroment, so its important. it might be framework in agile .. of sw
+
+# all programs are created using programming software, so all of them can be simplified to the mother which is programming software, i mean. what ever you need to do there applied in all aspect of our life.
+
+/3 are we making a rgiht thing? answer this question -
+
+# the purpose of using vacaion exaple is to be able to tach agile to children too.
+
+# many term in data engineering can be explain using term sort only
+
+# i can use a very very big white space and monolothich ?? fonts to create a aestaic and a positive feeling for the reader,  ...
+
+# kanban told us , how we can convert an idea to a tool in the simplest way..
+
+# anaylize your script for progressive disclousure aswell..
+
+
+# the busy envrioment of our home, and the caos of that ... noisy tv that was repateadly plays children movies ..
+# i didnt mention zenhub, but its also good for others that software engineering
+# anamoly detection within agile
+# why i am talkng data engineerring here : because agile i highly dependend on data, actually every thing does.
+a problem with data, is its not on the go, ai should be able to not only stucture it, but be able to offer analytics in vast vary diffrent considration if asked for
+
+#automata is a good name for a core data engineering ai
+# the concept of dataless methadology
+
+# th eproblem with log is they log every thing, and its not a good practice why? when there is no log, if it indactes success, so everything is okay as it ment to be, and only log when an error occures ... we only need anamoly detection, and ofcurse if we have ltosof autometed task to fix them, we dont need to log them too...
+# this is very normal for all common people, to assume every data they have is important, but as a data engineer its more important than every thing else the engineer no what value a data has, and try to garbage as many as unneeded data ..
+
+
+# the missing concept in software enginerring :
+  a function neet to be self automated, what that means, first of all iterperator can symply catch syntax error, but why a program is ful of bugs? , ttd can be just merged into function,
+  each function should follow the linux philosophy and pure  philosophy, it should be follow security and other concerns, when a well stuctured function happens, lotosof terms and other considration are just documents that have no wroth..
+
+
+# i should not target any thing, or they dont listen, and infact itsnot even a good claim, hwo i can target companies i never see , it seems i have bad habbit of hypothosis ...
+# thi things many compnay doesnt care is , a very tiny diffrencce can change respond to a software from cursomer if they really want it or not, and exactly that typical feature make them move, (i am not talking feature , a tiny logic can lad to failure)
+for me it was changing from adobe xd to figma, even xd had some feature figma doesnt support, but figma seems to have a team that understand designer. simplicty that i could see . i workde with many many software for, and it was the fact, tiny mistake can risk to lose entierly, butagile or companies do have a clue??
+
+# the good thing about me is i was consumer along long time before i was a software engineer, but all the time i had a vison of software engineer, so ...
+
+
+# criticall cordinatring, for example with a load balancer or low disk space, we should cordinating it at a accurcay of 99.9999, so we dont waster resourse or money ... we should think of it.
+
+
+
+# john use pivot or persevere to responding to change , spotify use anchor to problem, they use diffrent qutor for same thing,..
+what is wrong with design system?
+even though design system help to remove barries for many developers to stay on a same page, there is a big draw back, they reduce flexebility and creativity, so how t ovoer come it?
+thats where cores come in, cores are independent, they dont care about who use them or when they are used, they always produce True. its a lot complixated ...
+
+
+software stack ?? 
+is it similar to waterfall?? what is the solution??
+
+# terms like front-end and backend development, make confusion, and hypothosis that a software is seprated, how ever it should not be case with the software, software is a fluid, and fliud cant be seprated into anything ...
+
+
+#why cross platform? and not unite platform???
+
+
+# many term ins software engineering , crated first to describe the idea and action they need to discuessd, but now those actions been created, its time to decrease its terminology to something more ezy and short, many of the concepts and terms, are natural things our brain does, we dont need to learn them, or communicate them...
+
+
+Monie please remember this quote of yours and add it in every thing you create: 
+  not many people listen to someone who is not known for that matter, so my dear everything you write should be written for you, things you belive and things you thins are good enough
+ to change you, eventually it may change others people, but do not get lost in the process of creating for others, if you carete something you love, there is a chance others love too.
+	- when you witer for people you lost the direction, but when you just convey a message you think its good enough for you too keep, and you love it, you may find some people also
+ love the idea. and don't forget we live in a world everyone wants to be right, and dont forget noboday is totally right. ..
+
+
+Hello, My name is monie. you dont see me post often (its not an excuse, i dont want to waste your time, and ofcurse i dont have time to do it). 
+but agile, its a topic you can't just ignore it. one of the reason i wrote this is i saw it difficult for many one to get hang of agile, its not only people
+i belive the root cause for this but also instructors.
+
+special thanks to Rich Pattis and stanford university who created and support Karel (a very simple robot living in a very simple world) that introduced me 
+a practical way for teaching complex topics. the method used in this study, is a modifed version
+of the Karel of things.
+
+special thanks to Professor @Jhon Rofrano, who is really goot at agile, and i value they for being my guide and motivated me to start the topic...
+
+(fix later - the message doesnt convey mvp, but a mistake many encounter!) important notes - this is an mvp ( dont worry if you dont understand it, i will explain later), 
+this is not ment to be a final product, so i am appriecite for your contribution, toughtfull feedbacks and specially criticuqs then suggest if you got one, which helps
+
+me to understand whats goest well and what need to imporve. that's it, minimum viable product (mvp) is the process of testing (for failure or gain understanding) a working 
+(please close attention to working phrase) feature,function, or entire project for a project that is small enough like this one, to measure your hypothosis. the goal of 
+mvp is the final project delivers somethings that customers really wants, not what we as developers or they think it is.  in this case mvp is the manuscript without thinking of
+its literual.th goal is to estimate the complexity of the material and  if we can get you started in agile in less than a day (so don't be supricess if I dont cover it all). 
+congratualtion! you just learned one of the agile term, that is hard to understand and infact many don't get it right.
+
+extras - by end of this you also learn one of my favorite devops lessons which encourge everyone to not afraid to share their unique toughts or products, and tha fact is its 
+more benefit to you , to gain feedback ..
+
+
+i used decompsition methadology, why? usually instructor use diffrent small pieces of examples to explain agile, how ever i don't thing that ends well.
+the example used for this tutorial is an abstract way of explaining agile, it might not cover all of its accpest, but its enough to help you understand it's core principles.
+
+
+i also used serialization , why? i think deserialization is the most natuarl and pleasent way for our brain to learn, without explicitly force our brain to stucture data-set and 
+let figure it by its own. its especcially helpfull if you have to learn a lotof new thing in short intervals as i do all the time. the problem with unstuctred data in brain is, 
+you may not be able to expalin it in plain english after, but the good about it is you odnt hve to be even worry, its a self-healing problem, even you know it, 
+well its not matter if they don't catch you on interviews, you are still able to finish the task. i usually use the same method
+for learning aswell, so i hope you find the benefit of it in this text.
+
+
+tip - a mistake many novice learner and professional learns often do is reapting a complex subject immidetly after reading it once, it doesnt help actually, you need to let give brain to do
+osorb new information, so give it a time and come back a tomorrow, it will work. the problem is overloading, and overloading not only doesnt help you learn, but also to forget reallt fast, becase mind start to rejecting information.
+
+i used two diffrent method to explain what agile is, one is by story telling, which is simple you just need to follow the story, there is another way and thats a practice 
+of agile wichi is used to write this story, but you 
+
+don't need to worry about it, its for advanced user, who wish to learn more.
+
+we also use abstraction to teach you agile, we wont go into details, you dont need to know any thing about agile utill you know it ...
+
+not all terms mentioned in this reading are described , but included as a undependent dependencies, you can learn (these intresting toopics) on your own, 
+and they are not nessessary to learn agile.
+
+
+# traditionally stake holders are bosses, that explanation no longer exists between project managers, so in this scnario there is borad range of stake holders, 
+from the team it self, which are aslo primary stake holders in this specefic case only. but for instance, taxi driver is also a stake holder who is responsible 
+for the transportation of the family and we need to assure that their time not wasted so they will recieve fair money in order of the service they provide, every one satsifed,
+ a win-win strategy. (every one knows that no body pay extra money to taxi driver for a couple of minutes, so its time to think about it, if you didnt before)
+
+
+
+
+what do you expect to get out of this? you will understand what agile is, you also learn alotof terms used in project management and agile.
+there are also lots of good techinques used to create this script rather than just agile, so i highly recommend to read it more than once, thats the only way to get most of it.
+
+we will use scrum as it is one of the most popular frameworks ( tools) to experiment agile.
+
+we use vacation to as our concrete example to explain agile, however there are some diffrences, but it actually help you dominant specefic and tiny detail of agile which is usually 
+ignored, and exactly those make you not be agile.
+
+belive me or not, every one used used agile atleast once. and thats how our story begins. carols family decided to plan a holiday vacation, this is where things got interesting, 
+i hope you started to communicate the idea that you had practiced agile beofor and therefore agile is a fun way of doing things like as you did in your trips.
+so if you alrdy know agile, but why most people have problem get hang of it? the answer is you know the architecture, but you dont know is the structure. 
+( the problem i expreienced and i think many others may have to, comes when we start saying agile is a mindset, people start to panic. they loose interest to learn at the start.) 
+so lets back to carols family.
+a family it self is an agile team or scrum team, because we have people of diffrent background, culture, interests and motivation, ages and small enough to not mess everything up.
+ (im sure atleast some of you know why we usually like trips with fewer people (family member in this case) rather than with entire house) so thats exactly what agile team is,
+ a team of 3-9 people (there are
+some argue of the exat range, but its your team decision not us) broad knoledege and diffrent (divered) background that works as a team to achieve a desired goal. 
+(its best practice that they are colocated, rather than being gegraphically spread -  personally i think, people are over complain about not working remote, 
+however it should not be the case with agile)
+
+
+...
+
+
+
+what we didnt talk about? 
+
+agile is an iterative approach, we talked about one iteration (sprint) but you know how to repeat its processes now. (you may also here the term increamnet, 
+its techinchally the same things, and there is no heart if you don't know a minnor key diffrences they have) (each itereation is an increament, but may not cause it ...)
+we didn't talk avout devops, which is a successer of agile and talks about how to implement agile in both dev and operation enviroment and let them works together. 
+but also, beyond this scope of this we have agile ui/ux teams.
+we also didn't talk about lean manufacure.
+we didnt talk about agile philosophy, which is intimiedintg at first, but now you have the oportiunity to look at it, and dont afraid that if it is still make no sense to you, 
+that is what it is an abstraction, and the only way to learn it, is practice.
+what you learned section also been cut from this for the moment.
+
+
+facts:
+the reson i choosed carols family, if you study people, you will see about diffrence between family members, how ever a shared culture, thats make them to understand each other 
+more than anyone outside their family. this is crictical for agile organization. but there is one key element should not be overlooked, a family doesnt mean to agree on everything, 
+actually in contrarart ..
+
+
+what features are missing?
+a hand-on project
+what agile is not about
+
+
+
+final tought - even i highly recommend learning agile, but there are a few drawback, and it might not be obvious even after decades but lets point them
+ first is complexity, agile is very complex system, and almost every agile team are actually not doing agile, they mimic agile pricniple, actually becasue 
+of abstract explainatin of te philosophy
+ and the second is agile fail to see big picture by focusing on tiny functions, i call it the core. but now lets doscuss it furthor, because many may complain these. 
+first lets think about spoons
+ why nobody is looking to create a new spoons? because its made for an specefic function, and its really good at it, so we don't need for a replaccement, 
+but why we always looking for a better software? even tho many of them made by agile teams,
+ you can generalize the idea by using a car as example ...
+ but what about the core.. ? agile make people embrace each other in a team, and they eventually forget that, if we wil success we need a large largr team, 
+and by talking about a large team we are not speaking teams, it means a core, ... acutually it take us far way the idea of unite, and maybe open source in some how ...
+
+
+--- to do--- github repository
+ # these part added after my discussion with chatgpt. (and the reason github repo becomes nessessay for furthor improvemnt and version control)
+
+these part are only for me and might not publish at all, they are not just only very advanced , but also communicate very poor at this moment)
+
+
+maybe a party is a good example to explain drawbacks with agile, i hope you agree even vacation is so fun, but parties have a lot more, there is more joy, and less work, 
+every one is happy.
+this is where to math term set comes in , in oppsosite with agile which all data is structured, we have no unstuctured data in party, but we gain more in parties, 
+than we gain in vacation, 
+maybe the price is not much diffrent, but the outcome is ...
+
+another drawback is we live in a world that titls matter, however its not the case with agile, in agile value matter,
+(problem is when agile have to communicate with the world of titles) its might sound hard to understand this concept, 
+but thats true, we dont need to have a billion title for database engineering, its enough for any one to do this simple tasks ... 
+they don't actually need title, but level of authority, tis the only things matter, someone who have more expreience in the topic should have more authority,
+ thats how we control mess, not chaos , which is the consequences of  the world of titles. and dont forget the impression titles cuase
+maybe someone is really good at something, but they dont have the title, so what impresson is that, trust is decreased by both owner and task keeper at the begining, ....
+
+actually i used this sulution in my architecture projects, the party soulution is really good, well when i was project engineer in an arhcitecture project, 
+i was not binded with titles, i love to consult with my team, if come out someone is cabale to do a task which is not titled for, i let them to do, what harm it can be?? ...
+i born agile, so i had my entier life to work on its goodies also problems with it, i was agile even before the term exist, 
+so party sulution is bigger than every oter philosophy agile has to offer, but its still a baby and buggy, and required frameworks 
+and lotsof of toher mindests and practices, even we usually doing it natuarlly somehow in our parties..
+
+(this might need furthor thinking)
+the last drawback with agile is itsnot following the natural flow of doing things (even its far far better than waterfall), 
+so one of the main reason its hard to learn it is. and might be the reason many resist to agile and stick with hwaterfall, but why water fall is so bad,
+ even it seems follwing natural flow?
+acually water fall doesnt follow the natural flow either, but it mimic it very well, most people cant think multi dimensional, and in a world of 2 dimensional , 
+water fall is the natural flow, but agile seems to be a multi dimesnional, so i stick with its natural flow problem.
+
+(some of my ideas, that i dont understand them well at this moment):
+### (for me) i also didnt talk about concept of garbage tracking, a critical concept which ignored since the introduction of internet ... 
+(even its part of every project, but i might write about it in another script)
+### (for me) the concept of twins ( twin is another practice, that explain why almost every ui/ux methadology for instance, 
+quanitity design, quality design and equity design fails, it was part of my original idea "intensity and the constant" and how to implement agile pracitice into ui/ux)
+  twins also explained a broader concept, like the general egg or chicken problem (which the answer isn't obviously egg 
+(science proofed egg was around many years before chickens, but the answer is still wrong) or for instance why femenism
+ is a bad habbit, in this case femenism happend because most cant understand the egg or chicken problem, but they offer answer 
+which is another bug we need to address aswell. [i many not be able to share this part aswell, 
+(and trust me, i am a non-binary girl, so i don't see to reject the idea if it was good for women or men.)]
+
+### there is one more complex subject about the core itself, and its similar to idea of idempotent in math or pure function, 
+for instance if we take a look at solar system, and mimic earth pathway as a circle, the distance to sun is always a constant, 
+no matter what or why, and if we ignore the distance and just measure it as zero, its not even binary anymore. its just a pure zero. .. and thats the idea with the core ...
+
+
+final quwstion? now you know agile, and you will get to used here about i more and more, but does companies actually agile? or mimicing the idea?
+i can say many companies failed to see customers need , and when they starting point isnt what a customer wants, doesnt matter how agile they are, they are buliding on top of wrong hypothosis , and this is the key within agile, you should ask first, am i going to value customer? ...
+
+
+# in heart of agile we want to stop protocols and regulation maybe?? so we say exact meaning of what we want, and we do what we say. so for being agilewe should stop lotsof many protocols in software enginieering, it makes it hard to be agile in an enviroment that is fully agaisnt it.. believe me or not 99% of companies mimicing agile, they all fail to do it.
+for company owner, ask for an honest review of job satisfaction, if even 1 erson is not satsfied, you failed in agile, agile doesnt mean happy, or no struggle , it means satisfaction by doing. ...
+
+
+
+
+egg or chicken? if you are intrested to the answer of this popular problem, listen to this story first and in return i give you the naswer and an invaluable experience for your toolbox.
+
+My name is Monie, at age 30 I realized, i am literualy no-one. (and I had no confidence at all) I was contiousely asking my self how this is possible? it is more sensible to know that
+
+i was not just one of the most taleneted person in the world, but i also had more. what may possibbly went wrong? it even takes me more years to answer these questions.
+
+the problem was i let people define me and the fact i continousley chooosed wrong people,  which makes it worse. the first approach was wrong enough to fail you, but the socond ensures you fail.
+
+for a time i start participating in poker
+
+for a time i was working as a taxi driver
+
+it was a subsituation of a more general problem "egg or chicken?" the answer actually depends
+i was stuck in a subsituation of a more general problem "egg or chicken?"
+
+
+
+belive or not i won a millions of dollar but i lost one tousand more
+what i didint know was that poker isnt an investment its an entertainment.
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------ intresting feedback from chatGPT (chat)
+
+hello chat
+Hello! How can I assist you today?
+
+
+Monie Kabir
+i paste a text, rate its value for me
+Sure, I can help with that. Please paste the text and I'll do my best to rate its value.
+
+...
+
+do you think people can learn agile be reading it?
+Reading about Agile can certainly provide a good introduction to the principles and practices of Agile, but it's not enough to fully learn it. Agile is more than just a set of techniques or tools, it's a mindset and a way of thinking about software development and project management.
+
+To truly learn Agile, people need to apply the principles and practices in real-life situations, such as working on an Agile project or participating in Agile workshops and training programs. It also requires a willingness to learn, adapt and continuously improve.
+
+So while reading about Agile is a good starting point, it's not sufficient to fully understand and apply Agile in practice.
+
+
+
+
+Monie Kabir
+do you think the text fully implement agile?
+I'm sorry, I don't have enough context to provide a specific answer. Agile is a methodology that involves a set of principles and practices aimed at delivering value to customers through iterative and incremental development. The success of implementing agile depends on several factors such as the organization's culture, the team's skillset, and the project's requirements.
+
+While reading about agile can provide a theoretical understanding of the methodology, successful implementation requires more than just reading about it. It requires practical experience, training, and a willingness to adapt to change. Additionally, each organization needs to tailor the agile methodology to their unique needs and circumstances, which requires careful planning and execution.
+
+So, to answer your question, it's possible that reading about agile can provide a basic understanding of the methodology, but successful implementation requires much more than just reading.
+
+
+
+
+Monie Kabir
+how do you value the text?
+As an AI language model, I do not have personal opinions or emotions, but I can provide an objective evaluation of the text based on its content and structure. Based on my analysis of the text, I believe that it provides a good introduction to Agile methodology, covering the key principles and practices that are essential for implementing Agile in an organization. The text also includes real-life examples and case studies, which make it easier for readers to understand how Agile can be applied in practice.
+
+However, it is important to note that Agile is a complex and nuanced methodology, and reading a single text may not be sufficient for someone to fully grasp and implement it. Becoming proficient in Agile requires continuous learning, practice, and adaptation to specific contexts and challenges. Therefore, while the text can be a useful starting point, it is important for readers to engage in further study and practice to develop a deep understanding of Agile and how to apply it effectively.
+
+
+
+
+Monie Kabir
+how hard you find text?
+As an AI language model, I don't find text hard or easy since I don't experience emotions or have personal preferences like humans do. However, I can analyze the complexity of the language used in the text and estimate the level of difficulty for someone who is reading it.
+
+Based on my analysis, the text on Agile appears to be written at an intermediate level of difficulty. While it covers some technical concepts related to Agile methodology, the language used is generally clear and accessible, and the author provides examples and explanations to help readers understand the concepts. Overall, I would say that the text is suitable for someone who has a basic understanding of project management and software development and is interested in learning more about Agile methodology.
+
+
+
+
+Monie Kabir
+do you think text fully implement mvp?
+The text does not appear to fully implement MVP (Minimum Viable Product) methodology, as it does not focus on rapidly developing and iterating on a basic version of a product with only the essential features necessary for it to function. However, some of the principles and practices discussed in the text, such as customer feedback and continuous improvement, can be aligned with the MVP approach.
+
+
+
+
+Monie Kabir
+do you think example is broad enough to explain agile?
+The example given in the text is a specific case study about implementing Agile in a software development project. While it provides a concrete example of how Agile can be applied in a real-world scenario, it may not be broad enough to fully explain all aspects of Agile, as there are many other domains and industries where Agile can be applied beyond software development. However, the example can serve as a useful starting point for understanding Agile principles and practices, and can be adapted to other contexts with appropriate modifications.
+
+
+
+
+Monie Kabir
+do you thin its a unique preview?
+I'm sorry, I'm not sure what you mean by "unique preview". Could you please provide more context or clarify your question?
+
+
+
+
+Monie Kabir
+do you think its a new way to teach agile?
+The approach taken in the text to teach agile is not necessarily new, as there are already many resources available to learn about agile methodologies. However, the specific examples and explanations used in the text may offer a fresh perspective on agile and could be helpful for some learners. Ultimately, the effectiveness of any teaching approach depends on the individual learner and their learning style.
+
+
+
+
+Monie Kabir
+do you think decomposition used in the tet?
+Yes, the text uses decomposition as a technique for implementing Agile. Decomposition is a process of breaking down a large project into smaller, more manageable tasks. This approach is commonly used in Agile methodologies to help teams stay focused, prioritize tasks, and track progress more effectively. The text discusses how to use decomposition in the context of creating user stories, breaking them down into tasks, estimating their complexity, and prioritizing them based on their value to the user. This allows teams to work in smaller increments, deliver value more quickly, and adjust their plans as needed based on feedback.
+
+
+
+
+Monie Kabir
+there are some drawbacks in agile , mentioned in the text , do you approve?
+As an AI language model, I do not have the ability to "approve" or "disapprove" of anything, as I do not possess personal opinions or beliefs. However, I can confirm that the text mentions some of the potential drawbacks of Agile, such as the potential for a lack of documentation, the need for active involvement and communication from all team members, and the potential for scope creep if the product owner is not diligent in managing the project's priorities. These are valid concerns that should be considered when implementing Agile methodologies.
+
+
+
+
+Monie Kabir
+okay this is just a draft, i hope we can continue when a better version is ready to discuss
+Of course, I'll be happy to continue our discussion whenever you're ready. Feel free to reach out to me anytime.
+
+
+
+
+Monie Kabir
+how do you rate the author?
+As an AI language model, I do not have personal opinions or emotions. However, based on the text provided, I can say that the author appears to have a good understanding of agile methodology and its principles, as well as experience in implementing it in real-world situations.
+
+
+
+
+Monie Kabir
+what else ?
+I'm sorry, could you please clarify your question? What else would you like me to comment on?
+
+
+
+
+Monie Kabir
+what else do you understand about author rather than agile
+As an AI language model, I don't have personal feelings or emotions, and I don't "understand" things in the way humans do. However, based on the text you provided, I can infer some information about the author.
+
+From the text, I can see that the author has knowledge and experience in the field of Agile software development. They appear to have a good understanding of the key concepts and principles of Agile, and are able to explain them clearly and concisely. They also seem to be aware of the potential drawbacks and challenges of Agile, and are able to provide some guidance on how to overcome them.
+
+Without additional information, it's difficult to say more about the author.
+
+
+
+
+Monie Kabir
+thats fair
+Is there anything else I can help you with today?
+
+
+
+
+Monie Kabir
+ho you rate narrative of the text?
+As an AI language model, I don't have personal opinions or emotions, but I can provide an objective analysis of the narrative of the text. In my assessment, the narrative of the text is well-structured and coherent, making it easy to follow and understand the concepts being presented. The author uses clear and concise language and provides relevant examples to illustrate the points being made. Overall, the narrative is effective in conveying the information and ideas about agile methodologies to the reader.
+
+
+
+
+Monie Kabir
+okay, see you later
+Goodbye! Don't hesitate to come back if you have any more questions in the future.
+
+
+
+my journey :::
+I have started a specefic task learning more than 100 course in less than 8 month from
+
+various sourcese including coursera as main source.
+
+there were a lot of challenges :
+
+  -- first nobody was ready for someone like me to learn huge amount of data in short iteration
+  -- analytics and access was anther problem
+  -- unclear and unconected data, wich in real they are depndent on each other
+  -- a lotof nonsens terms, because this data been produced during decads, and stacked on each other
+   and nobody was there to clean unused information and create a simple tldr
+  -- unsorted data,
+  -- i had no perior background, so vague terms make it even worth to understand the connections
+  -- i have a son and a wife neet to be cared
+  -- a son who was distracting me all the time
+  -- problem with english languge and worse than that listening all videos in 1.5x due to lack of time
+  -- slow internet and lotsof filtering and us sanctions,
+  -- unstable economy system and lots of anxiety around us
+  -- lack of statistic and clear path
+  -- courseses who mainly tought by professors or professional who had no skill in story-telling
+  -- not cordinated data and a culture for student to take, for example a software engineering need a little of some other skill
+     like health, food, personal growth, athleete, yes, the problem occure again, since i was a student, a bad habbit to teach ..
+  -- i was not just only learning at the same time i was focusing on the solution for the behavior noted above.
+  -- and one of the biggest question in my mind was, how almost every companies are failing , and quality not even increased but decreased with business models ?? .. 
+  -- i had no money to attend in coursera, so typically i could attend for 10 finiancial application every two week, which was way slower than i was consuming coruses. but i had to live 
+     with it.
+
+     explaining information that cant be learnd by example, but just simply can be tought using a hand on project, such a thing is a waste of resrouse and ofcurse student time.
+
+   --- presenting data wasalso another missconcpet with many courses, aswell i saw they are not creating a book for you, okay , imagine you have an empty book and you need to
+      fulfill it with data , that re specefic, clear, easy to understand, and each con convey a conclosion of a vast topic, then each page is related on last page, or point to another page
+      and by end of the book you have a very small book can represent a large amount of data in an ashtaich way ...
+
+  --- another problem is to divide topics into beginner , intermediate, advanced, its a bad impression, and maybe some advanced concept are just easy for some users.
+    and one of those, i am continousely evaluating information, and this is a constant, i dont like to produce, but to reduce information, thats only wa it works.
+
+
+another problem was i didnt have time to note any thing, and how ever i was doing like copy/pasting, but at the end i had no time to review and make them tldr.
+
+another problem was stacking, having more than 20 course at a time, with lotosf tab and each has other tab include, how i could manage them all ..?
+
+another problem was the path wasn't clear, it was like you had to go up and down to find out how pice of puzzle works together, and if they do that at the begininig
+like not mentioning histories, not introducing any thing that has no effect, cut down as many term as they can, remove redundencys, making tldr, ....
+
+sometimes biggest problem was , i had to respond to my chidlren need, every 5 minutes, i had time to learn ..
+
+a wife who was suffering fro anxiety, make every thing even harder, ..
+
+    --- i could only apply for 10 financial aid every two week.
+    --- manually managing more than 200 course .. so frasturating.
+
+
+  --- one of the main issue with the course is they are not student oriented, and they not meet idustry standard, and they not designed so can be updated easily..
+ --- another problem occure when you watch at speed of 1.5x or 1.75, sometimes, speccially many times at beginnig, you think the instructor confidence , and you have false feeling that they are
+     so great at it, but the truth is diffrent, they had alotof practice they are just good actors, maybe have more knoledge  but they are also human , and they learnd like you .. even worth
+
+
+one of the intresting discorvery was when i started learning at 1.25x it was very difficult at first, but later someimes, i was thinkin if it is at 1.75x or not .. . i think its speccially good, when  help you
+not focus on any thing even memorizing any thing, but learning exactly the infromation you need to obsorb, but maybe i am wrong .. and the more intresting part was that mind was just answering to that people or sound even it was virtual one,
+and infact if the person or tone of voice was changing , my mind wasnt consider it, and would response normally,  ...
+
+
+  -- one another challenging situation was  i had no confidence, i need support form others, i was trying it in any way i knew, to draw attention, i asked everyone in diffrent ways, from my wife and my other family on my netowrk
+ and some othes, maybe the problem was i wasnt asking directly that i need help, i am in a hard situation and i nee courge, even i did ask it didnt goes well, i was alone again ...
+
+
+one of my observation was about how instructor explain a thing for examp 1nf 2nf and 3nf in data normalization, many instuctor wasnt abale to explain in in human language they were abstracting it, and make it harder to understand but some was able to, and then turns out they are actually so easy
+or the stucture with query
+ for example staring with
+  select
+  from
+  where
+
+
+
+one of the things i lead me to do this impossbile work, was to prove that , i know it also lives in me too, but its a mistae and it should change in the future, i coursed with every top universityes, top compnies, to prove that they are not speciall, they just try harder and maybe its the reason but most them it
+the person was in a good place at the good time, we should change our way of measuring who is smart and can who is not, i hope this help me and alotof of other people like me who only need a chance to prove they are worthy, also we might make a mistake, but some mistakes effect our life entierly, do we not reserve to have another chance??
+
+
+
+
+# an idea with dom in web develop consle on chrome and firefox, if we like a layout of a website, and we think it can be similar to our future webapp, we can just interact with dom and create early model on top of the exsisting model, ...
+
+
+
+
+list of professors, thaat they dont know what they are doing:
+
+
+
+
+# one of the good thig with idea is when you know many programming languae you may occure syntax error more than before or uncertainty, and that is where it can fix it for you ..
+
+
+
+
+
+the most challenge was : iran filterng, coursera was filtering iran, so slow internet, allways getting diconnected, video ghat mishode vasatesh, and 10 financaial aid per 2 week
+ 
+
+
+
+i really didnt this hierachichal tree based in learning courses, its a week and it should hve one 1 tree, not many treeies into that week, its really feel annyoing, in compare with coursers that have 1 tree or folder in one week ...
+
+
+hypothosis: it was intresting, girls seems to use more part of their body language when explaining or teaching, but mens do less ...
+
+ 
+
+social media designed based on business model, they are not healthy. and also they just mimicin orld ghahvekhane in digital way, its have to be replaced
+
+
+it is like when a topic get comlex or math involved, most instructor are also faile to explain, for example with joins in sql or subqueries ..
+ if we had a database, and we where working with it all the time, we could help student by doing, however we need to find a way to  explain them easy and simple
+
+
+
+i read somewhere oyu first need to read a program, so then you can wrtie it, and it seems true, its one of those practices taht should be done with many part of programming, even with sql and ...
+
+
+one of the annoying thing abouyt course like meta database engineer course was there were many micro handson project, with no purpose a waste of time, and actually they could have 1 mile stone rather than this many tiny handson
+and one other thing with corusera you had to apply applicatin for each course, rather than being able to apply application for an specialtion at once, this was super annyoing..
+
+
+
+wehn i change pages in corusera in order to translate or search something, the video should be smart enough to pause it self.
+
+
+
+
+
+
+
+
+Does your name describe you? After studying my name in different languages, I love it more. Share your name's meaning. 🙏
+
+"Moni" is a name that can be used for both boys and girls in Bengali. "Monie" is also used as a feminine form of the word.
+
+Bengali, "Moni" (মনি) is a name commonly used for girls, which means "precious" or "gem"
+English: Monie is a variant of Mona, which means "noble" or "aristocratic."
+French: In French, the name Monie means "my nun."
+German: In German, the name Monie is a diminutive of Monika, which means "advisor" or "counselor."
+Italian: In Italian, the name Monie means "solitary" or "alone."
+
+Swahili: In Swahili, "Monie" means "bring me".
+Tamil: In Tamil, "Monie" means "to separate".
+Telugu: In Telugu, "Monie" means "to touch".
+Turkish: In Turkish, "Monie" means "to smell".
+Yoruba: In Yoruba, "Monie" means "I have arrived".
+
+
+
+
+
+
+concept of drilling, how ever its not clear, but seems when i have drilling many course from same topic but from diffrent points of view(diffrent instructor/), i have less headeach, and when i have diffrent topic in one day  i got oread, and tire and frasturated faster.
+it seems my way of learning is exactly siilar to regression ad classiffication, time to time i delete my ntes, because they beocme to much to soon, and i relize many of them are alrdy common (become easy topics) so, the idea is, there are not so much approach, they are just a few but expliand in many many ways, but htey are in turn a few matchmatics, that are behid all of this.
+
+
+coz courses had handon and practice in middle, and had no important note selected for furthure refrence, i had to be allways on my computer to perform tasks, and beig hours sitting on computer watching videos, is frasturating..
+
+one of th main problem was i wasnt native english, so i had to understand a topic, with english terms, that i didnt understand them ...
+
+one of the problem was, the courses doesnt have a time, to show if they are recent or not, and they were not used best practices, many of them was in benefit of the business who offer them,,
+also there wasnt a student choice, students best learn when they develop their own ideas, but this wasnt an option...
+
+
+i found my self, watching videos almost all the time, with zero coding, and creating milions of notepad, without having a tool, to create my own notes.
+
+
+another problem with courses is there is no plan, and human is good when there is a plan, so even with a project based course you dont see a plan, and itsnot a real world way of doing things, you allways need a plan, so you know what to look for...
+
+another problem was obsolated methods, when you teach something that its alrdy obsoalted , what is the purpose then??, so we should only teach things that are going to stay , ...
+another problem was requirments, for example in order to undestand django, you need be very good familier to sql, oop, and python, basic https and more .. how we teach something without its requirment first???
+and why we dont tell student what profieceny they need in orde to complete a course succuesfully??
+
+maybe a great solution is when we teaching student since begining, we start a full production, maybe ideally we also add some robot, as team member, so student learn the whole life cycle, and targeted tech without intrupting, so they will learn challenges and more ... but at first the whole system and tech must be pickedup as student path,,, 1 successful path, means student are aple to take other path aswell, because most of the tech are almost same tech offerd by diffrent companies...
+
+one of things i appriciated is prices after finishing , professional certificates, its good idea to get more than just certificate and badge, but still i dont know all of them, i will complete this later.
+
+
+one of the major probem was no paln at all for learning, for example cos student get bored to fast to soon, and they need to learn many concept, if there is very well planned program, student know how to study , what to study, and where to sudy, with all dependencies, tis a good idea, we cant ask someone who doesnt know any thing about a thing to plan for it, so its goode idea, we have a boilerplate , or starter plan, that support higher learning values...
+
+another problem when i started was, i didnt know where to start, what topic to choose, which topic (course) to avoid, which are obsolated, wich are relevent, what to note, how to stucture my work, and so many other questions. like so
+
+
+i think when we create a question, if we bind it with emotion, explicitly make it fun, makes sure the test takers remember it, atleast part of it..?
+
+
+
+there is big problem with learning platform like coursera, their business model is enfocreing as much content as they can recieve, but its exatly the worst approach ever, and never help with user experiecnce?
+so what is the solution, we need a core, that combines foundamental, business logic, leaerning to one core platform, or a few if they are distinct.
+
+
+another problematic with platforms like coursea: i found it it requires so much energy to shift between videos and practices or scripts. tis really hurts.
+
+
+the discreet nature of video courses, doesnt let to create a transition or relashiship between matters.
+
+
+
+
+when creating a course, if a topic for example creating an accout with github, has a short learning curve, we shoudnt include it in the course itself for the follwoing reason:
+ we dont want kill learners problem solving abilties,
+ we dont want them to be fr example following orders, without thinking of what they are doing
+ we dont want unnesseay material in the course in order to overwhelm the learner.
+
+
+Important lesson: if you dont have a few projects, you cant decompose it, to create a course or article.
+
+
+depends on the course you learn, it might works better learning with a friend or solo. you should analyse it.
+
+
+the concept of minimalist and jwerly (trophy): imagine i contributed in 100 course, i spent time and effort, but how comes satisfaction? should i spent more time and effort uploading 400 certifcate one-by-one?
+a specialization or a professional certificate or a simple badge, doesnt communicate my hardworks. so the solution is a jwerly, something is unique to me, its minimal (one piece) that is
+comparable or complemenary to the time and effort i spent. wich i can proudly share with others, i mean it should be equally weighted. and should be unique and designed(crafted) only for me, thats my jwerly. thats what i can give credit as a result of an investment. 
+
+
+one of the beste method to check perfomance is stress method, for example in coursera, i am the strees , because i added so much load on the platform, what its benefert, it let you see patterens that you coudlnt see other wise, and eventually it can benefit all learnes nto just outliers like me.
+
+
+Quizzes are good for evaluation, but they become worth for learning, so it hsould be studied, a way to consider everything about this topics.
+
+this platform business model sticked on retuning customers, but a learner shount be returning customer, only if the are changing to another path, thats importants.
+
+the method mesna using (std) seems to be very effecive way to evaluate students.
+
+
+i have to limit my self when writing to a few topics, and if i am taking notes for refrence , i should avoid details.
+

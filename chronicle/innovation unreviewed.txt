@@ -1,0 +1,155 @@
+Shortcut																									
+- it was agood idea when we highlight a text, we could use plus, and minus to decreas o increas the size.																									
+-incremental save should be supported in all enviroments, so people can track for example when taking screenshots which then take us into automateion of learning tracking, extracting gold data, and creating a nice , tailored refrences for everything that need to be reviewed or mastered																									
+it also then gives the idea, that if we recieve an input (message) there are many way to response, but usually there is only one idea answer, which is not known, but with machine experiecne, the they can offer such automation and response																									
+which hen bring us into a unifed platform, that leverage both learning and doing and working and anything that is related to a job (worker, runner ...) into a unbound time expreience, means, we aggregate them thorigout our life																									
+i mean what if the job journey start early when we just start learning like age 6 7 and we can adapt to new envrioment as we goe, so then we dont have to learn alot at once, it all happens during life window, so how we can implement such a valuable tools																									
+that remain almost the same thrououg our life, the answer is chronicle!!																									
+next is incremental tracking or versions but in other way, it means, for exmaple i take 1 screenshot and next has the prevoius information and updated values, so it should be automtaiclaly tracked ad update the information accrodingly																									
+Luxury																									
+first explain my cuase																									
+also explain scale, for example safron come in small scale, bu its impact is big.																									
+safron																									
+mix this with cooking																									
+																									
+																									
+																									
+																									
+																									
+Innovation																									
+Chart for the report: the idea is that i come along way from learning iffrent diciplines to finally foucs in two intersectd areas, ai and quantom computing, maybe a viloine graph can be used to show this correlation which might not be specefi to me, but																									
+can be considerd a good experinece to sutdy our children future education pracices.																									
+																									
+																									
+																									
+																									
+blue marvin tought me we dont have to build applications by realying heavily on context instead we can use simple shape and forms to build them, wich is now possible after ai era, this mixed with what i learned from figma, procreate, google visual block, google tensorflow visualization tool, can lead to a innovation.																									
+																									
+																									
+																									
+experiences																									
+"hacker rank:
+there is no workspace, so you can import functions you create in previous question for reusability. (this doesnt let the accuring mindset of a programmer)
+"																									
+after my quantum account disabled, i know now that, this is a new things that should be fixed with internet, every time, my acocunt got compromised i get hurts, its like scratching my identity,, my online identity,																									
+so while companies have this on their control, they own my identity, but as a user, i have to own my own identity, and they not only allowed, by any country, to censor my identity, its act of terrorism, and its forbidden by all kind of humans law																									
+the solution is the compleety decouple accounts from website, it should be one centeralized account, as a core, and it should be controlled, cleaned , and organized by me, i choose who can do what, they cant disable me, i can disable them																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+Perosnal Development																									
+start to read code, the way you read english words. this might help mastering programming, because you are not proofreading it, you actually reading it,																									
+maybe one way to start is decomposablm method, which seems work for every problem.																									
+																									
+																									
+																									
+																									
+																									
+																									
+Quantum																									
+maybe the problem with qunatum is , we dont know a appropriate way to abstract them in our daily talking, for example give me 5 apple, ..																									
+																									
+loot at a Quntum computer, reverse the refrigrator, what do you see? dont you see a human form? but the question is human form is a qunaum machine, who doesnt care about errors, and it actually constantly fix the error in a puzzle way, so it add up their state to draw a conclusion, the hypothosis is that we might never be able to fix all the noises, if we are going to make them work in no sub-zero space, only if we find a way to embrace errors. and manipulate them logically. but thats only human, its not the only thing that does tha calucation so well, our sun does it to so our earth... are they are more resistance to errors? and then how they fix it all the time?																									
+																									
+let me also explain entaglement, not in a way other scientis explain it, imagine me and you are two entity of the system, i met you, and we had no more interaction, but i dont see anyone else, then i have been sent to another place into universe, let say equal to the whole universe life, my only interactiion with world, was to see you, and same to you, when i wakeup or you are sleep it doesnt matter, the reality that we know each other, and thats the information that cant changed, which also eplain superpozition, if we isolate every single information in a path that i can hold, i know so much information but one at a time, so when nobody is aware of me i know all of those information, all at once, but when someone measure it, they only know 1 entity out of all, becaue i can only sahre one entitity at a time, and if you dont tell me what specefic entity you ask, it can be arbitrary, which also explain time, first of all that box can almost carry inifinte number of information, which is also a finite number, but its beyod the imagination, but if we calculate the number of interaction that can occur, its just a simple finite nubmer, when exhuasted, it can hold any more information, and then it will dies. maybe this hypothosis doesnt explain anything but its a good point for beigning at this time... its just a wague explaintion of imagniation.																									
+																									
+in reality we reduce error of learning by iterating over it, can it also help quantum error correction?																									
+																									
+																									
+programming framewroksm, and everything about programming seems to be only words, and the problems isnt that programming is hard, if you dont know a domain, then a framework you have to work with becomes hard, and i see this when i was learning tensorflow, at first because my domain knoledge was shallow, i coudnt understand how it works, ... at the end we are not programmer, we are authors, and how much vocabulary of a domain we are aware help us, to write stories, that perform a job.																									
+																									
+																									
+one of the main problem in abstraction in computation era, is that itsnot properly aligend the nature, in nature abstraction happens seemlessly and everything interact with each other, but in our way of business we abstract things away in seprate enitties, and that need to be fied, we dont need windos, linux, os X and more ..., we need one unit as oprating system, and so on and so on																									
+																									
+																									
+																									
+a potenciel problem seems to deal with deep learning, learning rate, and grad, because it is an ineffcient algorithm, and can add computation cost, it can be optimized to much much faster, ...																									
+																									
+																									
+																									
+																									
+																									
+																									
+Artifical Int																									
+the way i learn now think me of a new aproach that hopefully lead us to artificial general inteligence, et me call it automatic learning, its not reinforcement learning, not supervise learning defienelty ,and not unsupervisd learning, so what it is?																									
+by observation i think this is an uncounsio learning, happening with a ranking system, well its a mechanism, that automatically and proactively rank information, maybe even recursively, but without so much engaging, and only expsoing itno topics for a reapeted time																									
+it automatically appears like a magic, well i need to study this, if we can develop that finctio, we simply have agi in hand.																									
+																									
+one of my question is, if you show someone who is really isolated from the world, a picture of the cat and a picture of the dog, for a few days, after a while you come with a new image of a cat, dog, and some other animals. does the person is able to recognzie new cats and dogs, and diffrientiate other animals? if so, we are still doesnt know any thing of how machines really learn. in other word, there are more effiecnet ways to teach a machine.																									
+																									
+another question is with the huge amount of computation our mind does, does even or storage is that big enough to keep this much data? so why we dont recall when we read informations? , i think our mind doesnt store informatio, but the function and some patterns that has indeed a very low strage amount, and then can be used to reproduce the information, if it has learned enoough.																									
+																									
+																									
+																									
+Decompostion learning for application learning: in this kind of approach we use decomposition by checking every indivusal elements, and we also mae sure we change one setting at a time, so we can undo it...																									
+																									
+																									
+																									
+Python																									
+its a good idea to start teaching python by first introducing program structure even before we start the tradition helloworld (starting with madues, ...) - consult page 93 if you eve need to recover the idea																									
+numpy ndaaray is much more powerfull than python builtin, and usually much faster, so it should be tught instead																									
+- net is to learn about dir and help function, before anything else,																									
+- then students can explore the type object																									
+it seems that all data strucutre can be abstracted away, how ever python doesnt support such a thing, but it can be also user defined. and it seems most of the junior programmer is all in choosing right data structure and their operations.																									
+learning the mechanics of how pythons works, is also next student should learn. which is  simply never tought, untill i found it in learning python book, which is also arbitrary a larg text book, it could be not more than 100.																									
+dir and help are themself an object, so we can pretify them too																									
+																									
+																									
+																									
+Sheet																									
+namedranges are good bastards																									
+doc.new , sheet.new, slide.new																									
+																									
+If we can combine, figma, procreate, photoshop, adobe animate, discord, github, rhino3d, adobe indesign, prompt, sheet, slides, meet, and otehr google workspaces tools, into one unified application																									
+then i tell you you did what you had to do since the begining, and thats how chronicle borned.						(well maybe pycharm and data spell should be mentioned too) also looker, and chronicle as well as loved jupyternotebook																			
+a major philosophy here is that we are creating a general purpose tools not for specefic title, role, industry or diffrente ages, and that would be hard, but the key is w take a look how how history to digitalization evolved, it will give a rough idea.																									
+we also need grammerly and some other tools,																									
+one important thigns how we combine all other learnings, like two many programming languges that back many of toolses around, it also create another problem:																									
+in an ideal workflow, we should be able to copy/paste anything from any where to canvas, but can we really do that, without going hard? can we simply put an copy html information to a google doc, without overwhelming process??																									
+these and many other things can be addressed, if we understand the philosophy behind the computer sicence, a simple + ad or come to much, and he reason for that is we had a learning rate, now its time to merge																									
+but its expensive, but possible with me.																									
+																									
+another important thing is a mental crisys that is created by technology, and thats come because business are now live in our minds, for example linkedin and facebook and instagram are business, that reflects on my of our mental desisons																									
+and simply put our mental is tighty centeralized, dispreading it out, or discreet platform, has a harm in long run ...																									
+																									
+																									
+***Important****																									
+a new philosophy about cloud computing that abstract cloud computing away																									
+in clould evelution the ideas was to first abstracting infrastructures away, then as allways faild, abstracting development time away,																									
+but with the rise of genai, we can now abstract many other things away																									
+for example, businesses are investing so much in their website/applications and so on, but should they do it? or we can simply																									
+abstract all the process in a polymorphisism search/? the idea is for example i need a book, i should not have to create an account with amazon, then research the internet to know if thats the book i want, order the book																									
+and also check every other website that offer the same thing for discount, or find a better and more stable service that offers some extras, also beyond this i have to be worry about my trace, privacy, secuirty and so on,...																									
+i also have to allwayshandle the stupid machine learning model, that are divided in many websites...  and they poor offering,																									
+in this model, we even dont need an account, we dont need to care about currency, or annonymizing informations, we dont need to be affected by governments desisons,																									
+this is now a pur network marketing, but this time every thing is abstracted away, and because of that many learning curve are too.																									
+the whole process for both business and indivusals are centeralized, managable and traceble, but each have their own trace without being worry about the others																									
+world will save trilions of dollars,its cyphological effect is incredible, its also a parrell workflow with the chronicle project, that create a seamles, no learnig curve tool, like as we did																									
+with pen and paper, thats proabably with the langauge of english is the only things we need to get the most important needs done. 																									
+for exampe of other effects, a customer, with ask a question, they dont have to worry to go to stackoverflow , quro or 100 milon other website, to fill in forms,  create account to enjoy the discusson																									
+it all abstracted away, in this case, machine decide to where poste the question, ask who to answer, decide on which answer is corrected, and what information should be removed or are irrelevent.																									
+customer get their answer, interenet is clean, less data is populated, llm is learn new things, nobody is worry about who asked the question and why, everyone get promoted																									
+there are many other exmaples too.																									
+there are so much less data produced, so much ess power consumed, and we have an extreamly better user exprienced. in in that case we now everything value as howmuch tim/year they cost																									
+money is just a bolshit for stupids. (this is another philopohpy that prabably appear in decades from now) because there is a time that nothing has a reall value , when everything is produced by machines, so mass production																									
+should only do the job, then its only time/year metric that can define something value.																									
+it also abstract many of project management strategies like agile, devops, devesecops mlsecops and their frameworks away, and achieve one important things too, allways quality product, and quality product only																									
+almost every other layer is automated and because abstracted away they can be any how dirty processes, so we should not be worry about quality development anymore																									
+and one final effect which is somehow very important is it leads to exponnentioal tim/complexity innovation, because it also abstract many of middle and high level abstraction away .. down to low level , which is allways the case.																									
+one more thing, now our beloved cellphone number, no longer will be distrubpt by business spams, and can purely be used for our community interactions.																									
+now its also maybe possible to abstract all operating systems away, and finally get rid of the complexty they bringed us to our world. thans to a dynamic os, that is decuppled from phisycal interaction.																									
+one of the problem is there is still too many manual processing, how ever we can change to a rule base model for everything, that means there is a centerlalized fully automated pipeline and access managmenet system etc,,																									
+many of this thing then can be modifed using a rule base method ath the indivusal level, i mean for example, maybe there are reports that are generetaed daily or ven at seconds, then i cant and should not be modify the universal agreement of that standard,																									
+instead i can create my own rule and pool what ever i need from the flow, but this is very complicated idea and require many coordiantion at the time, but its what is also happening in our interna human/machine processs																									
+																									
+																									
+																									
+																									
+																									
+exhaustive copy:																									
+its common when we need to copy a cople of thing and test them in order one by one, so why we dont produce a copy cointatin for clip board?																									

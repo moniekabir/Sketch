@@ -1,0 +1,30 @@
+In essence,
+everything the customer “touches” as a data point should be
+tracked and captured as a data source.
+
+The nature of the decision you must make is tied directly to the
+data you will need to gather to make that decision - which
+needs to be formulated into a problem statement.
+
+Historical data is
+typically referred to as batch, whereas real-time data capture is
+typically called streaming.
+
+It is important to note that any
+question that may arise in analyzing data can be grouped in
+one of five ML categories ?
+
+Because most ML models are trained
+using data from files, storing your data in a cloud storage bucket
+makes for easy data collection. Cloud storage buckets can be
+used for storing both structured and unstructured data.
+
+It is possible to have streaming structured data. Structured vs unstructured is a
+property of data format. Streaming vs batch is a property of latency.
+
+once a model is deployed as an application and it begins
+collecting data, new data enters the pipeline that may skew the
+original model’s results. (At this point you enter the fascinating
+realm of Machine Learning Operations, or MLOps, which is
+beyond the scope of the book.)
+

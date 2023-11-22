@@ -1,0 +1,16 @@
+in this section i ask questions that we dont have any answer yet																									
+																									
+my first question is, is it possible to machine look at one picture of cat, and inference cats of anykind?																									
+- my only clue is how even i was a small child i could copycat masterpieces of art, so that mean maybe but borrowing the way artist learn to draw, we can teach mashine to do it in a much much faster way and learn from it																									
+in my opininon its a mix of macros , algorithms and some other functions that machine learn during conducting these macros																									
+																									
+																									
+another question is if machine can learn by looking on so many example of a cat and dog and then can predict if an objec is a cat or dog, and i dont know if it can leearn the same with same picture that is intentionaly edited to to be a new object																									
+so, what is the solution for the machine by looking and one object and to be able to recognize it all the time in any from size shape!																									
+																									
+																									
+i dont think we have tables for tabular information in our mind, if there is a way that our mind process all of these into a very nice pipeline without divinding them , so there should be a way!																									
+																									
+																									
+one of my other question is if machines can return identical result, i mean let say a machine learned on Harley queen animated series, so if prompted: play harley queen 																									
+it should be able to reproduc what it learnd from it (this is the math model) but i dont know how it works yet, even its so natrual with us as humans																									

@@ -1,0 +1,5 @@
+we passed the time we need to bundle an operating system to demands of the consumers, nowadays, oparting system doesnt play a role more than a boot machine
+most of their softwares are outdated or unused or poses security risks. with cloud computing and decoupled architecture, and the rise of domain specefic hardwares now its time for shifting our approach to operating systems.
+and we also should intrdouce progressive disclourse as it proved its values to us. for example in sysem aware machines, when ever user require a new feature, it will be then introduced to system from a centeralized system or from a simulation
+this has a few advantages: first reducing the risk of system security duo to not having software at rest, second it introduce portability, because, machine learning algorithms can reduce the size of software which also increas security and it is less error prone due to nature of algorithms,
+third, it aligns with cloud computing workflows and its architecture, and finally the progressive disclousre model, affects human life in many ways, inclduing reducing the anxiety and confusion due to uncertainty intrdouced by overwhelming chocies.

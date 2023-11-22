@@ -1,0 +1,96 @@
+kk1 -When I look at mirrors, i question botherd me, one of our eary convention was to use binary system, and the fact of persent and absents of an electirc responce to form today,calssical compters
+but the pixels seems to be allways a problem to us, using emited light as the visualizer, seems to be allways problematic and many research has failed to prepare a vectorized monitor, that solve the problem
+for ever. so what happen whe nwe see our pictures in mirror? some how it have to read the information first, and do some molcular magic, to show the picture, i have the idea of we can use it to form a visualizer that read the information from the computer and with changing its energy surface to give us a vertor space of visual images.
+
+
+2 - how we does learn to draw, isnt that we take an image, and we start to playing with it, we practice and draw alotof things to understand the variation, so perhaps it can help us to create a new way  for deep learning to learn from images,
+one image, and nothing more, thats the drea, but perhaps we can use the method we did in graphic, to learn a feature of an object. and then we can use transfer learning, and build a very complex system, that is the best artist among us.
+i think variaton leads to creativity, because we learnd diffrent variation, or imaginary things, it let us to be more creative. ...
+
+
+3 - sudoku project, can we use the method in soduke, for predictive analysis?
+
+
+4 - machine learning cn be an important role in acceibility consideration, 
+
+
+5 - how we can build a search machine learning model, for webscraping? (it can be in the form of table builder.)
+
+
+6 - problems that machine learnig can solve:
+
+UX design.
+
+
+
+7 - rating seems redicilus, people are biased. and they are not expert, and this is also so much waste of time, what if, we could teach machines, ro automatically label, rank based on engineered column they find, then we make a model that be use for future prediction, we can do it for any rsting sustem, so finally we cut billions of trabytes of false data with a complete automate and centralized system as one source of truth, thatcan also combine recommendation too.
+
+
+8 - applied machine learning: Introducing fish project, studnets look too find all information they need, including research and lab resrouce, and eary prepration, professors look to find the best fit for they program, they also want to have no spam email.
+thats when fish project. comes handy, 
+
+
+9 - imporrtant, changing aml alggorith in order to understand depth, and geometry.
+
+
+10 - machine learning cn be an important role in acceibility consideration, 
+
+
+11 - another intresting machine model, can be , website rebuilder! (the renovator is more focused on data managment, and ai, standardizing the entier workflow nad systems of data... )
+
+
+12, Aplication, drug tracker
+13, one of the main world problem with digitalization, is managing email and accounts, and this problem acocicated with many other problems including mental problems.
+
+
+#ML Untold tails
+1- why they are wrong all aobut machine learning, from gpt3 learned over 140 bilion paramter and bard who is based on palm with 540 bilion parater, not only the perfomance wasnt improved but was the worse.
+thats the problem they have to learn soon, the learning part and the evaluation in unpdating part are not the same things, 1 trilion paramter cant make sure, if the model is effiecnet and a model with a few hunder paramter, that are enough low level and arrange to update them selve maybe be able to bypas the effieceny of any other ml models!
+---------------------------------------------------------------------------------------------------------------
+2 - even the smartest ml engineer wasnt able to see that, foesnt matter how good they model is, a model that is only trained based on examples, is like a human with know university degrees!
+---------------------------------------------------------------------------------------------------------------
+3, creativity is not only a problem with ai, its a general machines problem, iclduing humans!
+essentially, any part of software engineering, that a function expect a a predefined? value, can be shift to ml problem.
+---------------------------------------------------------------------------------------------------------------
+4, deep learning is observed by the normal human behavior, and todays machine learnig is no more than a normal person abilities, how ever we need mroe effiecnet way that smartest of us apply in their learning behavior!
+---------------------------------------------------------------------------------------------------------------
+5, Okay, I want to share an observation with you that might be considered a rule, if not a theory. When two people are in the same condition, having considered all their past and ongoing experiences, they tend to make consistent decisions. This is mathematically obvious since identical objects are essentially the same. However, a concise statement like this can be particularly helpful in practices such as Agile, DevOps, and SRE, which aim to create a blameless environment. In my opinion, blame often arises when people believe that under the same conditions, they would make different choices, which is not mathematically possible. I hope you find this idea interesting.
+---------------------------------------------------------------------------------------------------------------
+6 , "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world."   --- Albert inistain.
+
+
+
+and add this one:  i also want to bring and observation from my own project of integer factorization problem, is that every system can be described or pointed to one particular dependent unique number and just one number and as the size of the system grows so the magintude of the number(which is also so fragile, and as soon as you measure it, it will change, but still gives a good idea to help us build a system up to that point, and also means a system is stateles, untill you measure it, and that the only state we know! this is again borrowed from quantum core pricniple of superposition.(wich also gives the idea that or universe isnt nessesary a system that house boundries, quite oppsoite, it can be part of an unbounded system, ofcourse im not talking of its shape, becasue it can be arbirtrary), that is each system can be identified using a unique identfier [it might not be unique, because many systems can aggregate to same number, so its a reduntent number, but can be used in some way, perhaps its unique to the system itself, but all other systems can have the number redundency), and perhaps that's how genetics works.
+
+
+at this at the end of the post instead:
+
+based on the given information i think its clear what i think about the question: "is machines can be progrannat" but ultimately its up to you how interperet this information and what you beielve.
+
+i aslo give you another point of view, if we consider a video game a system, and if the npcs can be progrnanat, so machine can too. and that's a fact, the only diffrence between a real an unreal system dependes on what system you belongs to. and as a regional point of veiw, every system that assume a creator coud be a real system! (atleast the creation think it does)
+ 
+
+i also mention a begining solution, if we create a macro and lable steps of every time we teach a model, we finally have a dataset that then can be use to model a model that can then be used to automatically teach and creates new models and we can finaly remoe humans ou of hte loop. is that make sense? which also give us the agi! (all functionality we need to put inside a machine to make it agi!)
+----------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------
+first of all, eerything is in the nature, is a great machine learning problem, because they have so much data in them, 
+one more thing i think its wrong if we think nothing can move faster than light, not do the law o h pysiscs, but from an observation from factorization problem
+
+so study of light machine learnign model, 
+
+explaining everything in they mathmatichal forms, so then we can reduce the science both for human and machines
+
+
+the speed of the light! earth has a kown speed when its orbiting around the sun, but the question is, if we consider an atom inside the earth , what would be that speed?
+
+-------------------------------------------
+# Lie
+people lying all the time, and internet broadcast it exponentiolly, you can see it every where in not proven science, documantries, even vali resources, even in theories, so how we could know if sometihng is geniunely true, ?
+
+---------------------------------------
+if in the future machines can perfectly read and understand codes, it might be a chance, we can not only remove underlying structure, but having machines to sent the code in the right destiniation
+--------------------------------------
+#Creativity (old figure)
+let me ask a dump question, if you see every thing, and by that i mean overy probablictic of combination of any matter, could you be still creative? creatvity isnt about new things, is it? its just a malfunction of lacking information, if you know alot even not in a single dircetion, for exmaple if you are master in math, somehow you might found many called creative sound just regular or even boring, because your mind does know those patterb, and if in the gorilla test we cant see the gorilla, isnt because of the focal point of attention, it because it has to become infromation , into a math function in our mind to be read, it doesnt have a visual value there, so the reason is we simply ignore other information in order to mimic he focus, that simply means, we only accepts a few information but the selected ones, nothing more!

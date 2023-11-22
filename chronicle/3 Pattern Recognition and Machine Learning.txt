@@ -1,0 +1,8 @@
+Pattern recognition has its origins in engineering, whereas machine learning grew
+out of computer science. However, these activities can be viewed as two facets of
+the same field
+
+Knowledge of multivariate calculus and basic linear algebra
+is required
+
+

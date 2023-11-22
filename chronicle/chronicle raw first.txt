@@ -1,0 +1,187 @@
+i never tought if i could say this, but git is now ancient, the methods and precedures are still so much isolated, and require so much manual action , in practice, we can borrow the methods we used in physical structure building, and add them to a new system, like coordinating in real time, mitigating merge conflicts before htey happen and etc ...																									
+its good practice to have tab sepration beside the log, for quiz, diffrent level of explaination or details, and etra examples.																									
+chronicle book can adapt the declreatvie game management ecosystem like frostpunk and a role based story telling approach.																									
+ML: now i want t odefine an observation, which neet to test first befoere i can approve it, the question occured when i see outliersm well this one is obvoious but the loss function of a ml model, i want to say that , under the exact same circumustances, that ideally have everything equal, two inteligence being will take the same descion, and infact, those other factor are that changes the prediction are eternal factors, if we could identify external factor, or somehow understand them in another observer machines, we might be able to create machines that do not mistakes!																									
+																									
+chronicle mission is not only to manage data, also to provide a better data, by better we means ultimately to introduce math model, but thats ambituis but still we can think of solution of unifiying , centeralizing, polymorphisism, data with lower storage cost, and maybe at a time constant storage cost, so then we only care about the quanitity not weight!																									
+																									
+at its core level chronicle is a new operating system for internet v2.0 , it will automate many many many task at consumer level not at organization level, for example it will automate, access to internet, you dont have to do anything																									
+it will automtically connect you and assign an provide to you, you only need to pay for time mode, so anytihng in the futre matters is the time model , and time discount model, if you spent many time on one things, so you prabaly need a discount																									
+but stil i will name title of the book of chronicle Persona (and a design book is a design system, and a design system is istandard, and standard includes ven shortcuts :chrocnicle not going have to persona like tradtional ux/software dev design models, instead we have a large story and a book, that define chronicle as a hole, instead of expanding feature into the program, we explain them and elimante as much as complexity possible into the philosophy level, the perpose as to aggregate as many as possible functions or componenets to unite system so the abstraction level comes close to user mind thinking, i mean, ...																									
+- another good reason for having desig book, is it automatically remove jargon, and abbrivation, or  word innovation, instead it focus on process, and pocess doesnt require name, especially when it can be automated.																									
+chronicle object model: the first innovation in cm is that it assumes everything as a phisical objects, so if every thing is object they can be moved , copied, customized and so on from any where t oanywhere for example from web to doc to pdf reader and so on																									
+but chronicle has a let do a nice era of polymorphisism, we interact with objects as we do in real life, if want to cut part of a nice image and put it into our book it shoudnt be a problem, 																									
+																									
+																									
+part of the wishes of chronicle is to explain everything as a math object, or a math function, so we can get rid of storage problem. if we can store everything as a function and restore them as demand, we can fix the world problem of storage,																									
+also this is seems to a ntrual way of doing it in our mind.																									
+math model also solve many of our comuration problems, the idea is that our machines are able to figure out how to generete expeted content, if we only send them a table of what functions to execute, so that means																									
+most of computation happens at the endpoint level, not on the backend, and backend only acts as the instructor, we wont never be dependent on the cloud!																									
+																									
+																									
+in this architecture, prabably we only have pure databases as backend, no oprating system, no intermediary ,, we also have a kind of completey diffrent security architecture, and many many of traditional protocols, vpns, proxies, load baancer and so on																									
+will be retried, and database model will replace all  as a standalone core, that can be logical or phisycal																									
+																									
+																									
+imagine a future game that is 1 petabyte in size, instead of downloading and then playing, and storing , and bla bla, your computer immiedetly after buying game , recieve instruction and build the game on the cache, you play it as long as you would like,																									
+and when game is old enogh to not fit your library it will get removed by the system automitcally, or even, that is the principle , of use it and waste it when ever you no longer use it ...																									
+																									
+																									
+																									
+the first implementation of projec chronicle also support a simple ideas: everythign we now does digitally, was implemented using pen and paper, and human cumputation powers traditioanlly, so same approach can be adapted to digitazition																									
+one tools that is designed to do many many tasks using only a canvas and a peripheral, such as a mouse or a digital pen																									
+and that should conclude almost  many basic to advancd tasks																									
+another implementation is amost everything in conenstional comupers is based on AND, OR and XOR gates, so unless the computation is complicaed, it should be possible to integrate te idea ino the chornicle app																									
+-and one main problem with thos tradional model, is that it divedes communityies nto chunks, and collabration and tehcnickal improvemnt less reliabale, so there is a good chance mixing all into one piece, also increase the understanding of technichal implementaion																									
+- and one more important things is that having so many program architectecture, create a very complicated terminology for technichal term, and then learning curve and understanding those terms, but the real world isnt technichal is it? you dont need,																									
+to understand everything, you only need to carefully observe them, and in any other subject than scientifc . you dont need depth knoledege, so that is, ...																									
+chronicle also provide to new way of programming, one of them would be programming for people who dont know programming, using a declrative way, but not a complicated way, mixed with gui! and the other is an enhanced version of python and ofcourse and ide for both conventional and qunatum computaton.																									
+Important: each layer of abstraction also add a layer of complexity into implementation, at a point, the complexity will surpass abstraction , thats a real problem, because developers arent awar of the underlying tehcnology, they add more and more  																									
+layer of abstraction, and things that are typically simpler to do without abstraction become very comlicated to to many many branching, as an analogy outside computer science, a washing machine, doesnt solve any thing at all, it just shift it in a more pleasent way, it dodesnt create a pipileline, efifencet managment model, it just cut the hand and not for all the time, only in specefic times, duo to other complexity it adds, like getting powder, pills, plumbing, power consumption etc, so thats the problem																									
+CLI																									
+ i dont know why CLIs are still so classic, the purpose of a command line interface is a to provide a command line interface, but it doesnt mean we cant inherete many feautres from other places to enhanse this lovely tools																									
+for example we can inherete many graphical interface for example tabular data structure, or many features from html navigation architecture, or google chronicle search, or many features from ides like pycharm and dataspell, we can also add enhanced color options, and much more																									
+																									
+																									
+																									
+																									
+the main diffrence between math model and agi (artifical general intelligence) is one of the two is statles, and the other is the statefull, and one of them is more genral thatn the other one, but im not ure wich one yet.																									
+																									
+																									
+what is the purpose of having so many decuplled technolgoeis around data? cant we jut combine dataflow,data fusion, data prep, data proc?, cassandara, big query, big table, jupyter notbooks, and so on into one unite data technology that is efifently able to deal what everything around data?? it can be sub project of chronicle, before we finally transite to object and math model, but we are at provisoining level, but combining all of the old operating system model and traditional cloud technologies into one big																									
+and easy to learn solution, that prabably shoudnt have more than 1 day to master , not getting started, we need a maximum of one day to master a tool, howerver our mastery with data itself may take a life time, thats another iissue.																									
+																									
+- first gui can create an automated  writing code for us, then we have prototyping, visual languages, macros nad so on, we may be able to collect a something from this approach, to create effiecnet and easy to use platform																									
+- we also have pipelines  and other tools such as teraform and infrastructure as code																									
+what is the problem? we have so many program, and we have so many languages, and we have somany approaches, for something is simple as AND, OR, XOR which are buidling blocks of all of theses																									
+																									
+																									
+IMportatnt																									
+okay i think integer factorization can help with databases and math model too so its now part of chronicle project																									
+how i thik it solve many problem with databases? 																									
+because if is a generalized formoula, and we can describe any thing as number, well it is more complicated, but it can be considered an starting point, to much much more effiecnet databases, that can store a large amount of data  only using																									
+a math function																									
+																									
+we then also have schema, and prompts																									
+																									
+																									
+																									
+																									
+Important																									
+there is no also another question																									
+lets consider people with brain dmg, they are essentialy not diffrent with trees, so it also make it more intresting if we consider the brain as the only attaachbe system for intelleginece, and if we detach it from any system, they loose their intelligence and expriecnes, so what if we attach a intelligence unit to a tree, they prabably become intelligence, and they can share their information with us, isnt that beautfiul?																									
+																									
+																									
+																									
+																									
+this is part of learning model, we only learn complex system using decomposition , well it also wroks to learn new programs or softwares allways the same, and learning model																									
+aim is to preprocess all of those, and abstract the constant line of the learning curve away, so you start with the binomial part!																									
+																									
+																									
+one of the nice things i have done during 2023 to 4 was instead of taking notes of my learning, i tooks note of the problem when i am learning, because of my speed in learning in dealing with big-data learning , and large amount of decouppled information																									
+this was still the most challenging worl learning experience someone can ever experience! and perhaps no one else did it that way before, because in amny ways i am unique , perhaps because i am a nonbinary and superpoztion is my things!																									
+																									
+																									
+																									
+																									
+																									
+inte intresting that kubernetis have very similar to the core model i have developed the ideas from two decades ago, but they are still not even close to the model! core model is much more intreting!																									
+																									
+																									
+i like the idea of ephemeral in google cloud, its so close to the idea of , create it use it and delete it when no longer need it!																									
+																									
+																									
+important																									
+we know a few method to visually or programmatically handle an event, for example chronicle soar has many great ideas, but as with our chronicle, we want to have a innocent canvas, means, even everything is centeralized, but its hidden from the user																									
+and the avaalibity of a feature is depends on demands, so that also means, a canvas is able to do almost anything, and it has very coninent and ocnsistent interface when creating a related interface to the user use case																									
+for example for a playbook, it will use the visual block model, and thats it .... thats also means chronicle response to user need, not creating a library of every needs a user mmight have, it also matched progressive disclouser, by the time																									
+the user will automaticaly creates a complxe system as they like, but the good news is because they build it on the demand, they also master it, and becasue of the consistent model, there is high chance people can obay learning model so they can also learn other peoples complex system.																									
+so solve my problem, but only one at a time																									
+																									
+and for example table is also cosidered one of the few way we know to intereact with data, it means, chrocnicle innocent canvas also remvoe lotosof other complexity and vendor locking and or review , etc, by that we means, you no longer need to lock into an operating system, you wont need to be worry of th name of the brand or the tools, or the extesionm installation, provisining and so one, but you do it as a declrative way																									
+thats obvious each problem, and their solution can be declrative, so when you declar a problem, we have only a few foundational tools to help us solving that problem, and thsoe foundational tools then can appeared based on the time and  space complexity of the problem, for example, maybe a visual block is more suitable for an atumaton problem than cli, and vise versa, so this is the machine who is awar of many task and their complexity using a shared model so we can allways solve a problem																									
+without thinkining of the tools and resources we need upfront, without require to explicit planning, and it becomes, learn as you go model, with not really a learning curve issue, because if you know a problem, and you also know how to solve it, probabbly machine can do that too, if its not the case, and you dont know how to solve the problem and you need to provison required tools that you guess will help you solve that problem, so at machine level its a decision tree, at human level it appears for example as figma canvas, and thats been said even in graphic design we start simple and by using block model, we wrap a design into a simplest shape, and hten we add complexity as we learn , but block can give s a nce boundray or constraint, that doesnt ruin our design!																									
+																									
+																									
+important																									
+we also learned from our exprience with google, that many of our problems can be simply solve by a query or search, or prompt, so that means, we have to find an efifecnet way, to make this productive, because thats so manual, we need automation integrated with the system, even in many case prompt can be helpfull, but usually problems are not that complicated at the granual level, because usually we as humans and even our machines arent good enough to solve a complex problem all at once, some of us are famiire with this kind of problem and we are good at too find their solution, but what if we dont have enoughtinformation to define that complex problem in the first place? like as it happend with the chronicle itself, it tooks me decades, and then ltosof general learning to come with these ideas, that still are to narrow, to solve the main rpoblem, but we are getting there, after we was able to implement the system																									
+as a sytem created then w  can always refine it to make it more simple, as been said as a problem is more complex, then there is also a much more simpler approach to solve it, but we dont know unless we compleelty solve the problem and learn from it'																									
+and then recreate the system based on our observation																									
+																									
+																									
+																									
+one of my other quesition is iif we monitor wiritng data to disk, then can we create a machine model, that cand create it for us with no requiring copy or anything else later, and then with transfer learning we can update the solution, it might be one way for us to achieve math model, or atleas a failed solution we can learn from																									
+																									
+																									
+																									
+important																									
+so with th ecloud model, what is going to happen that so much compute powere at the hans of consumers, all of those compter powere that is wasting and are at rest, thats why math model is much more appropriate, and it will use																									
+all of those power to approach a consumer first model, and it will also benfecial for privacy level, and controls, it also elminate many of the cyber security attacks, which after Not shor algorithm, will be day to day																									
+																									
+																									
+																									
+Important																									
+it might take so much iteration until we can implement chronicle main ideas, but there are other concerns,, i say todays concern , so before we move on to tomorrow																									
+traditioally html,css was used to develop uis for the web, and javascript these three together formed the frontend, and with the hep of node the backend																									
+however as the times goes on, ui/ux and by prdoucing objects, becoems a ux designer job, so its incompatible with dy now, why a developer with no understanding of graphic should ever concern to write stupid html and css code																									
+while they can be visualized, and the logic can automatically handle by machines, there is also another concern that is correlated with this, if a problem is dependend on other problems, you prabably have to solve the problem as a whole																									
+and that we have to reinvent the wheel, because the current wheel produce many unwanted jobs. and that it																									
+i should also mention that abstraction isnt the things we want here, because it doesnt remove complexity, it only hide it from the user, we want to aggregate what we learn through out the abstraction layer, and implement it and restart to process, making it much simplere as it was in reality , then we reabstract untill we get to a point that we can reiterate, and again remove complexity untill we have a system, that is abstracted by design, not to hid its element, the abstracion layer is now fully automated, and its complexity doesnt have to deal with learning, a complex process, that is based on simpe math																									
+																									
+prototyping can become compliated in figma very soon, but thats because we dont use microservice design approach in them, however microservices isnt an optimal solution either, as it seems, most of our problem are the finding the best path problem! (algorith)																									
+																									
+																									
+one more important thing is, usually when we have enought computation power, data can flow slowly, but as soon as demands increases, it forms a queuue, in that cas, in cloud we do horizontal or vertical scaling depends on the case, and that associcated with the cost, in contrrary at the same tim in client level ,they are not using even 1% of their cpu utilization or memory power at the same time, so instead we do all of the hard work at backed, or if we form a queue, we can do many part at the client side, and only if its nessecary we update the backedn, and in many cases it can be also a queueu, because clients states, doesnt require to update immideelty, they can do their jjob and leave, and system becomes eventually consistent																									
+we know that maybe some user are doing heav compute when they are also browsing, which is not the case most the time, but give the idea, that only very heav compute should be handled by cloud, and almost other things shoud be done at the client level																									
+how ever when chronicl math model introduced we can safely computer every thing at the client level																									
+																									
+																									
+																									
+																									
+i want to use an analogy here: if we need an apartment, and then we get grow our family we might need more apartment, its more managmeble, we can learn more and master it faster, but what if someone giveus a tower instead, isnt that overwhelming?																									
+ofcourse you become rich, but money doesnt help you if you dont know what to do with it! so thats why canvas is so important, we will do muhc more tradiontaion architecture workflow, but in some conjuction with bim, so we carfully architect																									
+our requirment, with ease, because canvas is aware of any kind of U ....																									
+																									
+																									
+																									
+so , te term ephemeral seems to have a role key in chronicle philosophy																									
+																									
+																									
+																									
+important																									
+if we can distinct phisycal resorucese into distinc object with known purpose, and with the help of dag we can almost build any kind of application with no expertise, how is that?																									
+let say we know the application we need, we only need to know how to connect resoruces together, for example, we add a compute job, database job etc ...																									
+apache airflow does similar thigns but not so close, one more thing is we can use this approach to build standards, that are accicble t oeveryone, and remove garbages that has been produced in the digitalization era																									
+how it works is simple, because developer only need to know the outcome of a job, and they can then ingest that out come to another job, or it can be parrelel, its almost the same how we architect and design buildings																									
+innovation can always happen, so we simply repplace one with another, we might also be able to get rid of versions, as i mentiond if a problem is dependent  maybe to best approach is to solve them all at once, ...																									
+																									
+and one more thing for exampe we want to schedule a job, in this kind of cases, we only wrap things together, for example, if and sceduler wrap a bgiquery job, then when player read the flow, she will knows that she had to first create an scedule, and then run the job on that specefic scedule, i alos introduced player, player is just like a line in adobe animate when we play a movie, its no diffrence, it reads, and analyze the pipeline, and report erorrs, or suggest fixes, or best practices, and as simple like that																									
+people doesnt need to learn any thing else rather than dag, and good news is they learn it n age 7																									
+so oneofe the main important part that actually add almost all comlexities is the secuirty wich will be rendered unusable when we introduce nnot shor, however, we still need do the same wit hsecurity, iit can be a wrapper, so nor developer nor user																									
+will care about the implementation, when an incidence happend, they will recieve automatically updates, that applys too all system, becayse its a seprate duty, so if one duty fail, it make sure none of any other duties fails too																									
+																									
+3 more words that might be helpfull are even driven , push , and pull																									
+																									
+because almost every path is depends on time/cost so we can simply wrap desiion in an autmation estiamtion of time/cost module, so you typically choose what fits, if time is a matter or money or a balance but it should be as simple as radio drag button?																									
+and because time always mean computation time, so thats easy pizzy,																									
+																									
+i think pub/sub is also so powerfull system, but even i dont know much about it i have a good guess that she has her part in chronicle system																									
+																									
+one other idea is that we can actually do a nano or even less services, but in that case, th hman should be only the service creator, managing, and deplyoing and everything else, should be handled by machine, so this idea can have some application i will think about it more, but thats hw we can slowly mirror ad manage real world behavior into our digital world																									
+																									
+if our mind is able to not only store sucha large amount of data,? is really it do that anyway? , and it doesnt need to add mroe capacity, so there is a way, the trade off is because computation constraint or mind ist able t orecover all data , is that even true? so one or another, undesrting this may help us solve the copmputation problem, or capacity problem, or even both!																									
+																									
+one idea with creating games is the ux should be radically simple, and start the complexity as the time grows, and user gain expeience and enjoy the process and slowly learn new things, this is kind of fun and eductional pattern our world doesnt undertood																									
+so the idea is , using dag model, like automl, data fusion, ibm quantum composer, for users to start simple, and if and only if they need more complexity they learn on the way using same approach, or if they are learning to code, along the way ...																									
+																									
+																									
+another idea is the meta data that might come to value over time, for example, google sheet or doc, doesnt track all information required for this wirting so many informatin are already lost for example the order or the time this were added, i beleive google doc has some kind of version history, yet meta data about each action is something else...																									
+																									
+																									
+i want to use sclupting example, for this idea, in  typical sclupting workflow we only have one input, that hold an state, and every tools that apply on it has no state at all, they are just actors on the state, why it is important?																									
+in programming model, if we have an input, and out put, so we can have only one state, and every other actors are statless, this remove dependencies, at the same time let us to track state, which then can lead to simpler programming model																									
+																									
+																									
+																									
+CLI																									
+one of the funadamental problem with cli is visualization theory, its just to white!																									

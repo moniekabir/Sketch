@@ -1,0 +1,115 @@
+google cloud is realy bad especially when it comes to IA , and fucntionality within the platform, well they did a good job in many places, but its not what we are going to talk about																									
+for the google cloud because of the granularity level, i dont even like the contexctual model,  in the model i introduce fort the google cloud i use a parent/child visual model. to give an pleasent experience without introducing complexty, at each level the model is polymorphisism and react to what users need, instead of introducing so many items, that user wont use, visual model help to do it really easy and understand everything better 																									
+																									
+one of the other prblem is due to the latency, if provisioning resources by the cloud, its a good idea, that user can creat the model on the fly, and befor deploying any service a controlle verify the steps, and finally when user was saticfied with the service, they start deploying it, so they dont have to wait instead they can be more productive, before they notice that they misspled a project name for example in an expensive operation!																									
+																									
+																									
+																									
+the iformation user need to expect to see in drilling, is that the wrappers, for example, iam, firwall rules, and essenially everythign that can be changed in place, or can be added as a dependency to the service, however, nobody love logs! not eveyone is an analysy, and prabably only a few log has a value in them, most of them are garbage																									
+still this garbage log can be valuable only if they have an application in the field of ai																									
+																									
+																									
+																									
+																									
+one of the main problem with navigation in gcp is so many menus, each designed fdiffrently , and so many buttons that each may reside anywhere in the page, and i wont talk about toggles, and others things, but the purpose is to have as low as possible menu navigation system even with a complex system, the mapping problem is shiny here																									
+																									
+another issue is simuating traffics , it should be part of the platform, and offer a variety of sensetive analysis, not a manual task! and also be part of the pipelie creation wich i noted before																									
+																									
+																									
+a cultural CLI, cli need to be onyly used when a custom action is required, and the prupose must be to reduce it as much as we can, but i explained these ideas as well the futre of clis, in chronicle 																									
+																									
+																									
+																									
+two important idea, in data life cycle, data can not be out of the loop, or that means there is a manaul task that human are involved and hsould be mitigated to be fully automatic or using ml																									
+second they didnt used this idea of ghosting, i mean enviroment should be exactly the same, but consumer lives in diffrent dimension of the same system, instead of having diffrent systems, we have one united system, that consumers are ghosted ..																									
+																									
+																									
+																									
+																									
+one i deas is how should gloud and other cli function inheret the console function in a declrative way, i mean because when you work with console, you remember the order of commands, so you can for example, use those name as it is in cli																									
+that makes it easy to adapt cli, because when user match the gui, then they know how to struct the cli																									
+and thats require and ide-cloud that can help with auto completion																									
+																									
+																									
+																									
+i want to thinkg of a model, that is called call fo duty model, that is, its complety decopule cpu with any thing else, compute is only a memory problem!																									
+																									
+																									
+																									
+introducing the mother cloud model: in mother model, it mimic the energy system of the universe, it has a plenty of resoruces availabe to her, and it watches for request, that is , mother is computation repository, and has plenty of comput, storage, and memory, so the consumer doesnt have to be worry, where it lives, what it does, all happend at the mother level, the consumer only have to make one simple decision, on how much computation power they need, and how much they can pay for																									
+so then jobs get distrbuted, it would be real time, and no downtime is required,, if failover or fualt tolerent is a concern, still is the same, because fualt tolerant is simly a storage problem,																									
+that also means, tradional os are not designed for cloud model, and htey should be replaced!																									
+in the mother model everythign is decoupled, even edge points, i mean edge point require a service, so the best way is the contact the service provider, service provider only approve and asign a job, nothing else, then edge point automtically send its request to the motehr, and that ultimately allways a mother desions, so it will remove all of the complexity of backends , front ends, etc, its also a shared model, because many of the things also happen at the edge level when a lotof computing power are making dusts!																									
+																									
+																									
+i have speaken of desiging the whole system like bim in architecutre before deploying it, thats it, it can be like prediction workflows, we infrence how our app infrastructre as a whole should communicate ...																									
+																									
+																									
+																									
+																									
+Google Cloud Skillsboost																									
+it would be good if video completion has a threshhol, because its not uncommon to click next video when a few seconds before a video ended.																									
+																									
+																									
+																									
+there is a faoundamneal flaws in the platform as i saw it in many other platform:																									
+as humans we are really bad whith numbers, and when the number gorw we start to freak out. thats true with the number of elements and lab in sb platform																									
+well we are also bad at long sessios too, it becomes boring really fast for example a long video may not read at all. but dividing it into many smaller piece is not a olution either																									
+i dont want to go deeper with this part because its part of learnig model of chronicle, and i explained all there. for labs there is a nice solution																									
+for long time there is a bad rummor of academic learning and real world scnarios. 700 labs atomic labs doesnt help student																									
+instead having a few comprehensive labs that compose a full project can be helpfull, but with intrdoucing new things, first there should be a mandataroy role																									
+and one or more few roles accociated with the project, a student should do all the related job with their respective role, and they can pass or do roles are not accociated with them and they should be able																									
+to develop a full porotofolio by doing see, which means it should include, reports, postmortems, anything thats is practiycal with real world scanrio																									
+lesson learned and etc, they can also have a learning log, that atuomatically appears after finishing each part of the project, as their taking aways, so they can always comeback and review, a short summurary and or																									
+we can even make it more real, if we introduce few stakeholders, that appears at each point, they can add more salt and information to the experience, i like it this experience from the game frost punk so																									
+																									
+(one more things about roles, if students choose to playe the parts that arent they role, they can decide to wether use or not use helpers)																									
+																									
+																									
+																									
+one more thing is that i cant bookmark videos i like to revisit later,																									
+																									
+																									
+one of my other painpoint is that my son call out for me like every 5 minutes, and have a business with me, the challenge is with a timed lab, i not only experiecne stress , but i may abondon it all together, it would be a good idea																									
+to have puase in the labs, because what is the point of timed lab? it gives a price or something? the point is to learn, and in real life there are barriers, and puase is an essential fact of life.																									
+																									
+																									
+																									
+one of the main flaws with google cloud product is inconsistency, for example colors in reports and dashboard and charts that are part of the platform, not user defined, many inconsistency in information architecture. the granularity level, and aswell learning model (thisone is advanced because you first need to understand the learning model) but it suggest fro example, daaprep wich is visual tool should somehow be the first tool also when a job begins, it let user understand the core function before they dive into more coding challenge or customized flows that aslo math the studnt learning jorueny with no ambigutiy, like dag models, first and then custome dags should be ony if nessesary!																									
+																									
+																									
+																									
+it is also very fruatrating when i have back and force between incognito mode and the lab, to read the instructions.																									
+																									
+																									
+another problem is i am not able to see my score within labs as i can do with quizzes																									
+																									
+																									
+another fundamental problem is that icant track all my progress in a centeralized place, it isnt uncommon for students to start few courses together, and then they need to track the whole progress in a granual level, because many coruses share simlar lab, and if you dont know your progress , you can plan accordingly.																									
+																									
+																									
+its very ackword to have diffrent email for student for each lab, aswell as every time agreeing with the term of service and recaptcha every time???																									
+																									
+																									
+having a central feedback option, that is also transparent, means give information about feedback recieved, processes and the responce back to user, to engage motivation, and help correct developemnt too.																									
+																									
+																									
+i already mention in learning model, changing between enregy states (rotines) is waste to our brain, instead in this platform they can decupple, labs and quizes into their own eniviroment, and isntead create a scheduled plan, that will assign labs and quizees to to stdents as they progress, this also align with the pace model wich is a foundamental pilar of digital learning expreience (learn on you own pace). and also implictly teach many of project manamgent practices to students. so they can effiecently track their progress and learn from this experience.																									
+																									
+its very intresting that we are in this platform to learn about data, but the platform doesnt align with the midnset of a data sceintist!																									
+																									
+																									
+																									
+																									
+																									
+																									
+its funny that you cant pin a main category in google cloud, and if you use a categroy perhaps you will use all of the tools inside it!																									
+																									
+																									
+																									
+skillsbost oesnt follow the struct methadology, means you ave to memorize many of the leaning, and thats a fragile approach, you are only learn if you learn how to struct, because you may forget something, but its really hard to forget when you learned how to struct something.																									
+																									
+																									
+Important:																									
+abstraction doesnt solve the prbolem, its just an transoformation, so means using anotehr path instead, but we need to remove it in order to pick a shorter path, and that can goes with chronicle system that is based on the philosophy																									
+that everything happen on the client side, they dont have to directly interact with a cloud system for example, much like a quantum computing eco system, they have one medium fit all, and they only simulate the calulation,, then load the job still inside their client not through api or anything else, lets call it direct accociation. that doesnt abstract away, remove the interference of the thirdy party provide (cloud)...																									

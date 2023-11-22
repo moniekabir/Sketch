@@ -1,0 +1,39 @@
+Phse 3 (milestone 3:) / roadmap																									
+"Python learning                        
+- contributing in the following GitHub repos: Qiskit and Cirq
+                
+Arbitrary UI/UX project                        
+- Voluntarily design for IBMQ circuit composer (because IBM UI/UX is deepsh..)                         
+- design for future Quantum IDE with the code name: Chronicle (because doesn't seems any activities in this area, yet.)
+- etend jupter notebook and dataspell design and functionality (because it is going to be my default tools for years, i have too add functionality they miss and aestatics)
+Papers                        
+- Algorithm learning for machine learning (abstracting machine learning project phases into algorithm, because we are good at structure learning)                        
+- simplifying quantum concepts for future workforces                        "																									
+- prime factorization problem																									
+UX project: new jupyter ide, that combines simplicity and dataspell and google idx ideas, aswell what i learned from google chronicle																									
+a sample project ofr ducment learning, for example pandas, we can crete a document tree instad, that start with more general  functions as top level, and by the order of their day-to-day usefullnes, then we can drill to their tree, this way, its compact, more																									
+accesible, and searchable, can have multiple example embeded, and its for sure less cluttered, so easier to teach, easier to learn,, and easier to search																									
+one other way to arrange topics can be they precedines appearing int a data analysis project, this can be  use unconseiou learning, (structured learning) with not to much effort																									
+wich leads to a ux project of creating a mock documentation projects, ofcourse i need to apply other usefullness, for eample,  having bookmark ready, log and so in , which is default in many of my ux projects.																									
+																									
+																									
+Workspace																									
+Workspace: first google workspace name is really bol..																									
+second a workspace should be one centrlized units, not 10 diffrent applications, it should follow i know it method																									
+i nkow it method: when you recieve a claender invite, in you ribox you get notifed of it as a clader file, if you want to create a calender you create a compos event, and so on, still i need to think how effiecently these can works together as one app																									
+this might seems duanting at first but it can reduce learning curve to only a few keyword, which can significantly change how we interact with the object around us,, and maybe we can finally ge rid of notifcation syndrome.																									
+a centeralized workspace, means centeralized every thing, from social media, linkedin , etc, now can be embeded into one allways clean enviroment, so we can freely follow our intrests, not forced intrest, and																									
+mixed with the idea of privacy is a personal identity, nobody cant limit it too.																									
+oe more thing we should allways conside gaming in our products, it seems their community is leader hw to create both engaign and functoning applications.																									
+																									
+another considrable change might be shared responsiibilities, for contrast in chat, there is a shared responsiblity when a conversaion happens, but as the real life mode, if one participant decided to delete it, it should be delted both way, they have																									
+well this are agrements thats is not yet been established, but as we go further, there will be more and more and shared responsibilites, so they also demands stanards and agreements 																									
+so privacy wont be a concern and even more than that, who doesnt like a managed and controled life? and also creating less garbage is ..																									
+																									
+Prompt era demands prompt philosophy well its just appeared as a baby in 2023, so there is much to do here																									
+																									
+																									
+the methd used to heal machines learn, now can be applied to human, this time machines can show examples, and we can learn as humans, it can be really good with coding and application that require clis																									
+																									
+																									
+isnt a good idea to have intellisense using machine learning for ides , and ofcourse for all kind of it, including sql, witth suggestion auto completion ...																									

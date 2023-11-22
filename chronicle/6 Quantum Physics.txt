@@ -1,0 +1,6 @@
+Einstein’s Principle of Relativity: The laws of physics are the same in all inertial reference frames.
+
+
+Why was it a big deal to extend the principle of relativity from mechanics to all the laws of physics? Because classical electrodynamics seemed to contravene such an extension. A classical physicist could argue against an extension of the principle of relativity like this:
+
+Imagine that you are locked in a sealed chamber (no windows) and you want to decide if you are moving or not. Classical mechanics can only tell you if you are accelerating, but it cannot tell you anything if you are moving with constant velocity.

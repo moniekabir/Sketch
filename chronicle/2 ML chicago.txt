@@ -1,0 +1,6 @@
+Basic calculus:
+	-concepts of derivatives
+Basic Linear algebra:
+Vectors
+Matrices
+Matrix multiply
